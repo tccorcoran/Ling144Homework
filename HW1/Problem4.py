@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-'''Creates a PigLatin generator.'''
+"""Creates a PigLatin generator."""
 
 __author__ = 'chase'
 __email__ = "chase@ucsc.edu"
@@ -23,11 +23,10 @@ def pigLatin(w):
     vowels = 'aeiou'
 
     # from http://usefulenglish.ru/phonetics/practice-consonant-clusters
-    consonant_clusters_bi = set(('st','sp','sl','sh', 'sk', 'tr', 'fl', 'bl', 'br', 'tw','th', 'pl', 'pr',
-                                 'sm', 'dr', 'cl', 'cr', 'gl', 'gr', 'sn', 'sw', 'dw', 'qu','gw'))
+    consonant_clusters_bi = {'st','sp','sl','sh', 'sk', 'tr', 'fl', 'bl', 'br', 'tw','th', 'pl', 'pr',
+                                 'sm', 'dr', 'cl', 'cr', 'gl', 'gr', 'sn', 'sw', 'dw', 'qu','gw'}
 
-    consonant_clusters_tri = set(('squ', 'str', 'spl', 'scr', 'thr', 'shr', 'squ'))
-
+    consonant_clusters_tri = {'squ', 'str', 'spl', 'scr', 'thr', 'shr', 'squ'}
 
 
     if not isinstance(w, str):
