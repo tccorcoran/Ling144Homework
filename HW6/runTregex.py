@@ -3,8 +3,7 @@
 import subprocess
 import json
 from nltk.tree import ParentedTree
-
-import pdb
+from pdb import set_trace
 
 class SearchTree(ParentedTree):
     def loadMatches(self, e):
@@ -55,7 +54,88 @@ class SearchTree(ParentedTree):
                 break
         
         return (out, position)
-        
+class AnotherSearchTree(SearchTree):
+
+    def adjacent(self, elt):
+        """expects elt to a be a string"""
+        #set_trace()
+        root = self.root() # full tree
+        def checkIsElt(node):
+            if isinstance(node,str):
+                if node == elt: return True
+            else:
+                if node.node == elt: return True
+        if not isinstance(elt,str) and not isinstance(elt,unicode):
+            print "Expected a string"
+            return False
+
+        if not self.right_sibling():
+            # no right sibling, we have to find the next right branch to climb down
+            node = self
+            while node != root and not node.right_sibling():
+                # search up tree for a right branch to follow down
+                if checkIsElt(node): return True
+                try: 
+                    node = node.parent()
+                except: # maybe we're at  root
+                   print "erre"
+                   break
+
+            pos = node.right_sibling().treeposition()
+            for _ in xrange(node.right_sibling().height()):
+            # look at the left edge of the node
+                try:
+                    # something something better to ask forgiveness than 
+                    # permission
+                    node=root[pos]
+                    pos += (0,) # get leftmost if exists, else we're at a leaf
+                except (IndexError, TypeError):
+                    break
+                if checkIsElt(node): return True
+
+        if not self.left_sibling():
+            #check right edges of ancester with lowest left branch left sister
+            node = self
+            while node != root and not node.left_sibling():
+                try:
+                    node = node.parent()
+                except: 
+                    print "eerer"    
+            pos = node.left_sibling().treeposition()
+            for _ in xrange(node.left_sibling().height()):
+                try:
+                    node = root[pos]
+                    pos += (len(node)-1,)
+                except (IndexError, TypeError):
+                    break
+                if checkIsElt(node): return True
+
+        if self.right_sibling():
+            #check left sibling down
+            node = self.right_sibling()
+            pos = node.treeposition()
+            if checkIsElt(node): return True
+            for _ in xrange(node.height()):
+                try: 
+                    node = root[pos]
+                    pos += (0,)
+                except (IndexError, TypeError):
+                    break
+                if checkIsElt(node): return True
+        if self.left_sibling():
+            # look down the rightmost nodes of left sib
+            node = self.left_sibling()
+            rightest = (len(node) -1,)
+            pos = node.treeposition()
+            if checkIsElt(node): return True
+            for _ in xrange(node.height()):
+                try: 
+                    node = root[pos+rightest]
+                    rightest += (len(node)-1,)
+                except (IndexError, TypeError):
+                    break
+                if checkIsElt(node): return True
+
 class Treebank():
 
     javaJars = "/media/Preload/Documents and Settings/Chase Corcoran/My Documents/School/Ling. 144/repos/ComputationalMethods/scripts/*:/media/Preload/Documents and Settings/Chase Corcoran/My Documents/School/Ling. 144/repos/ComputationalMethods/scripts/stanford-tregex-2013-06-20/stanford-tregex.jar"

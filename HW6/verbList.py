@@ -7,7 +7,7 @@ from operator import itemgetter
 lem = WordNetLemmatizer()
 
 
-pat = "/VB[DN]/ , /(was|were|are|been|being)/"
+pat = "(/VB[DN]/ , /(was|were|are|been|being)/)"
 corpus_dir = "/home/chase/CompLing/stanford-tregex-2012-03-09/treebank_3/parsed/mrg/wsj/"
 
 #trees = TB(copus_dir, pat)
@@ -23,17 +23,19 @@ with open('verbs.txt', 'r') as fi:
         v = lem.lemmatize(inflected_verb, 'v')
         cnt[v] += 1
 top_50 = map(lambda x: x[0],sorted([(x,cnt[x]) for x in cnt], key = itemgetter(1))[-50:])
-print top_50
+print "Top 50 verbs"
+print '\n'.join(top_50)
 trees = TB(corpus_dir, pat)
 trees.run()
 
-
 passives=[]
+p = Counter()
 for t in trees:
    # print t.matchTree.leaves()[0].lower()
-    print lem.lemmatize(t.matchTree.leaves()[0].lower())
+    p[lem.lemmatize(t.matchTree.leaves()[0].lower())] += 1
     
     if lem.lemmatize(t.matchTree.leaves()[0].lower()) in top_50:
         passives.append(t)
         print t.leaves()
-print len(passives)
+set_trace()
+
