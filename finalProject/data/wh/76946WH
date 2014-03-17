@@ -1,0 +1,1 @@
+(S (SBAR (IN Assuming) (S (NP (NP (DT the) (NN theory)) (VP (VBG emerging) (PP (IN from) (NP (DT the) (JJ new) (NN work))))) (VP (VBZ is) (ADJP (JJ correct))))) (PRN (, ,) (S (NP (NNP Tilman)) (VP (VBD said))) (, ,)) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ uncertain)) (SBAR (WHADVP (WRB how) (RB generally)) (S (NP (PRP it)) (VP (MD might) (VP (VB apply)))))) (. .))

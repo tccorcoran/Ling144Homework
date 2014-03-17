@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (NP (NNP Martin)) (PRN (-LRB- -LRB-) (NP (NNP Luther) (NNP King) (NNP Jr.)) (-RRB- -RRB-))) (VP (AUX had) (VP (VBN led) (NP (PRP us)) (PP (TO to) (NP (DT the) (VBN promised) (NN land)))))) (, ,) (CC but) (SBARQ (WHNP (WP who)) (VP (MD would) (VP (VB lead) (NP (PRP us)) (PRT (RP over)))) (. ?)))

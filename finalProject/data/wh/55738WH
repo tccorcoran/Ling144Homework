@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP Tuesday) (POS 's)) (NN announcement)) (PRN (: --) (SBAR (WHNP (WDT which)) (VP (VP (VBD made) (S (NP (DT the) (JJ previous) (NN offer)) (ADJP (JJ public)))) (CC and) (VP (VBD set) (NP (DT a) (NN deadline))))) (: --))) (VP (AUX was) (VP (VBN made) (SBAR (IN after) (S (NP (DT the) (NN stock) (NN market)) (VP (VBD closed)))))) (. .))

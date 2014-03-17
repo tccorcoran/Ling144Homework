@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP Sony) (POS 's)) (JJ musical) (NN minidisk)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ uses) (NP (JJ magneto-optical) (NN technology))))) (, ,)) (VP (MD can) (VP (VB store) (NP (CD 140) (NNS megabytes)) (SBAR (WHADVP (WRB when)) (VP (VBN used) (PP (IN as) (NP (DT a) (NN computer) (NN peripheral))))))) (. .))

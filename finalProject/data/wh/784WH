@@ -1,0 +1,1 @@
+(NP (NP (NP (NNP SPIEGEL)) (: :) (VP (VBG Talking) (PP (IN about) (NP (NNS losses))))) (: -) (SBARQ (WHADVP (WRB how)) (SQ (AUX do) (NP (PRP you)) (VP (VB explain) (NP (NP (DT the) (NN fall)) (PP (IN of) (NP (NNP IBM)))))) (. ?)))

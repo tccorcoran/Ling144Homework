@@ -1,0 +1,1 @@
+(S (S (NP (NNP Senator) (NNP Pataki)) (VP (AUX has) (VP (VBN talked) (PP (IN about) (NP (DT the) (NN watershed)))))) (: --) (SBARQ (WHADVP (WRB when)) (SINV (AUX have) (NP (PRP you)) (VP (VBN heard) (S (NP (DT the) (NN watershed)) (VP (VBN discussed) (PP (IN in) (NP (DT a) (NNP New) (NNP York) (NNP State) (NN election))))))) (. ?)))

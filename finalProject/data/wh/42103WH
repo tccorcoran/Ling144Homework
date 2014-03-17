@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN alert)) (, ,) (SBAR (WHNP (WDT which)) (VP (AUX is) (ADVP (RB then)) (VP (VBN passed) (PP (TO to) (NP (NNS pilots)))))) (, ,)) (VP (VBZ is) (ADVP (RB only)) (NP (DT a) (NN warning) (SBAR (IN that) (S (NP (NP (NNS conditions)) (SBAR (WHNP (WDT that)) (VP (MD could) (VP (VB create) (NP (NN wind) (NN shear)))))) (VP (VBP exist)))))) (. .))

@@ -1,0 +1,11 @@
+TRAIN-VB
+
+                        -1      1
+                -1  9013.10  84.10
+                 1   58.60  315.90
+
+                (row = reference; col = test)
+
+avg precision: 0.790777
+avg recall: 0.843529
+avg f1: 0.815897

@@ -1,0 +1,1 @@
+(S (SBAR (IN With) (S (NP (NNP Germany)) (ADVP (RB ahead) (NP (CD 3-1))))) (, ,) (NP (NP (NNP Belgium) (POS 's)) (NNP Georges) (NNP Grun)) (VP (VBD sent) (NP (DT a) (JJ long) (NN pass)) (PP (TO to) (NP (NP (NNP Josip) (NNP Weber)) (, ,) (SBAR (WHNP (WP who)) (VP (VBD had) (NP (NP (RB only) (DT the) (NN goalkeeper)) (VP (TO to) (VP (VB beat))))))))) (. .))

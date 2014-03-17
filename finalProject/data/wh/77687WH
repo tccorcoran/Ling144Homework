@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (PRP they)) (VP (VBP 're) (RB not) (ADJP (JJ old) (RB enough) (VP (TO to) (VP (VB write))))))) (, ,) (VP (VB let) (S (NP (PRP them)) (VP (VB tell) (NP (PRP you)) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP want) (SBAR (IN while) (S (NP (PRP you)) (VP (VBP write) (NP (DT the) (NN list))))))))))) (. .))

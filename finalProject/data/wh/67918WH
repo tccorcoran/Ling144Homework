@@ -1,0 +1,1 @@
+(S (PP (IN At) (NP (NNP Harvard) (NNP University))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NN tuition) (CC and) (NNS fees)) (VP (VBP are) (NP (NP ($ $) (CD 26,230)) (NP (DT a) (NN year)))))) (, ,) (NP (NP (CD 95) (NN percent)) (PP (IN of) (NP (DT the) (NNS students)))) (VP (VBD graduate) (PP (IN within) (NP (CD five) (NNS years)))) (. .))

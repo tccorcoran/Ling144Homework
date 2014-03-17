@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT Some) (NNS drugs)) (PP (IN on) (NP (DT the) (NN list)))) (PRN (: --) (PP (JJ such) (IN as) (NP (NNS analgesics))) (: --))) (VP (MD can) (VP (VB lead) (PP (TO to) (NP (NP (NN depression)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ is) (ADJP (JJ common) (PP (IN in) (NP (DT the) (JJ elderly)))))))))) (. .))

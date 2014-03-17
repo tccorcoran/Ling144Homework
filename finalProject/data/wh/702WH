@@ -1,0 +1,1 @@
+(NP (NP (NN Question)) (: :) (SBARQ (WHADVP (WRB How)) (SQ (AUX do) (NP (PRP you)) (VP (VB decide) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (NN time)) (VP (TO to) (VP (VB leave) (NP (CD one) (NN career)))))))))) (. ?)))

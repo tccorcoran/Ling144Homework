@@ -1,0 +1,1 @@
+(S (ADVP (RB Unfortunately)) (, ,) (SBAR (IN while) (S (NP (JJ much)) (VP (AUX was) (VP (VBN promised))))) (, ,) (NP (DT the) (NN delivery)) (ADVP (RB still)) (VP (VBD depended) (PP (IN on) (NP (NP (DT the) (NNS quirks) (CC and) (NNS vagaries)) (PP (IN of) (SBAR (WHNP (WP what)) (VP (VBZ is) (ADVP (RB very) (RB much)) (NP (DT an) (JJ ad-lib) (NN event)))))))) (. .))

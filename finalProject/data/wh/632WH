@@ -1,0 +1,1 @@
+(NP (NP (NNP Jane) (NNP Whitney)) (: :) (NP (NP (NNS People)) (SBAR (WHNP (WP who)) (VP (VBD raised) (NP (NP (NNS children)) (SBAR (WHNP (WP who)) (VP (VBD were) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (NP (DT a) (NN spouse) (POS 's)) (NN affair)))))))))) (. .))

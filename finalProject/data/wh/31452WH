@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NN Everybody)) (VP (CC either) (VP (VBZ has) (NP (NP (DT some)) (PP (IN of) (NP (NNP Forrest) (NNP Gump))) (PP (IN in) (NP (PRP them))))) (CC or) (VP (VBZ knows) (NP (NP (NN someone)) (SBAR (WHNP (WP who)) (VP (VBZ has) (NP (NP (DT some)) (PP (IN of) (NP (NNP Forrest) (NNP Gump)))) (PP (IN in) (NP (PRP them)))))))) (. .))

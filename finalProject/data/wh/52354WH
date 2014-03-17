@@ -1,0 +1,1 @@
+(S (: --) (NP (NP (NNP Smith)) (, ,) (SBAR (WHNP (WP who)) (VP (VBD carried) (NP (DT the) (NN ball)) (NP (CD 32) (NNS times)) (NP (NNP Sunday)) (PP (IN in) (NP (NNP Pittsburgh))))) (, ,)) (VP (VBD said) (S (NP (DT that)) (VP (MD might) (VP (VB be) (NP (ADJP (RB too) (JJ much)) (NN work)))))) (. .))

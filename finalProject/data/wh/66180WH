@@ -1,0 +1,1 @@
+(S (NP (PRP You)) (VP (MD can) (VP (VB control) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (NNS calls)) (VP (AUX are) (VP (VBN routed))))) (, ,) (SBAR (SBAR (WHNP (WDT which) (NNS ones)) (VP (AUX are) (VP (VBN forwarded) (PP (TO to) (NP (PRP$ your) (NN home)))))) (, ,) (SBAR (WHNP (WDT which) (NNS ones)) (VP (AUX are) (VP (VBN blocked)))))))) (. .))

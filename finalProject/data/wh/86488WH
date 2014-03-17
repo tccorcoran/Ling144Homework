@@ -1,0 +1,1 @@
+(S (S (NP (NP (NP (NNP Thomas)) (, ,) (SBAR (WHNP (WP who)) (VP (VBZ is) (ADJP (JJ black)))) (, ,)) (CC and) (NP (DT a) (NNP Hispanic) (NN member))) (VP (VBD voted) (PP (IN for) (NP (DT the) (NNS hearings))))) (: ;) (S (NP (NP (DT the) (NN panel) (POS 's)) (CD three) (JJ white) (NNS members)) (VP (VBD voted) (PP (IN against)))) (. .))

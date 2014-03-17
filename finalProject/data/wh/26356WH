@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN plane)) (VP (VBD returned) (PP (TO to) (NP (NP (DT the) (NN airport)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN maintenance) (NN crew)) (VP (VBD discovered) (SBAR (IN that) (S (NP (DT a) (JJ forward) (NN entry) (NN door)) (VP (AUX had) (RB not) (VP (AUX been) (VP (VBN closed) (ADVP (RB properly))))))))))))) (. .))

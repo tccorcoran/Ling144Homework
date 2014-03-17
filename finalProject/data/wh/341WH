@@ -1,0 +1,1 @@
+(FRAG (PP (IN As) (PP (TO to) (NP (DT the) (NN where) (POS 's)))) (: :) (FRAG (ADVP (ADVP (RB Just) (IN about)) (RB everywhere)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN dollar)) (VP (AUX has) (VP (VBN become) (NP (DT the) (JJ official) (JJ unofficial) (NN tender))))))) (. .))

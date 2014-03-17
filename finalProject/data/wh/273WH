@@ -1,0 +1,1 @@
+(FRAG (NP (NNP Q)) (: :) (S (NP (NP (DT A) (NN story)) (PP (IN about) (NP (NP (DT the) (NN arrest)) (PP (IN of) (NP (DT an) (NNP Atlanta) (`` ``) (NN gang) (NN queen) ('' '')))))) (VP (VBD said) (S (NP (NNS police)) (VP (VBD found) (NP (NP (VBG recruiting) (NN literature)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ has) (S (NP (PRP me)) (ADJP (JJ curious)))))))))) (. .))

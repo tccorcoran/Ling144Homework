@@ -1,0 +1,11 @@
+TRAIN-JJ
+
+                        -1      1
+                -1  9011.70  85.50
+                 1   58.80  315.70
+
+                (row = reference; col = test)
+
+avg precision: 0.787761
+avg recall: 0.842993
+avg f1: 0.814093

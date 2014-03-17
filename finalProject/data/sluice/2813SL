@@ -1,0 +1,1 @@
+(S (S (NP (NNS Scientists)) (VP (VBD knew) (SBAR (IN that) (S (NP (DT the) (NN drug)) (VP (VBD was) (ADJP (JJ effective) (PP (IN in) (VP (VBG treating) (NP (DT some) (NNS disorders)))))))))) (CC but) (S (NP (PRP they)) (VP (AUX did) (RB not) (VP (VB know) (WHADVP (WRB why))))) (. .))

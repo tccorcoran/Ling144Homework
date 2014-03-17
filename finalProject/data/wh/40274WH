@@ -1,0 +1,1 @@
+(S (NP (NP (DT An) (NNP American)) (SBAR (WHNP (WP who)) (VP (VBZ checks) (PP (IN into) (NP (DT a) (NN hotel))) (PP (IN in) (NP (NNP Tokyo)))))) (VP (MD will) (VP (VB pay) (NP ($ $) (CD 315)) (PP (IN for) (NP (NP (DT a) (NN room)) (PP (IN with) (NP (NP (DT a) (VBN listed) (NN rate)) (PP (IN of) (NP (CD 31,000) (NNS yen))))))))) (. .))

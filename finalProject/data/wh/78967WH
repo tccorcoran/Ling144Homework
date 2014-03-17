@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (RB Even) (WRB when)) (S (NP (NNS funds)) (VP (VBP buy) (NP (JJ nondollar) (NNS bonds))))) (, ,) (NP (NP (DT the) (NNS currencies)) (PRN (: --) (NP (JJ Argentine) (NML (NML (NN peso)) (, ,) (NML (NNP Thai) (NN baht)))) (: --))) (VP (AUX are) (ADVP (RB often)) (VP (VBN pegged) (PP (TO to) (NP (DT the) (NN dollar))))) (. .))

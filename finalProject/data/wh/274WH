@@ -1,0 +1,1 @@
+(FRAG (NP (NNP Q)) (: :) (S (NP (NP (DT The) (NNS questions)) (PP (IN about) (NP (PRP you)))) (ADVP (RB now)) (, ,) (ADVP (RB though)) (, ,) (ADVP (RB mostly)) (VP (VBP center) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (PRP you)) (VP (VBP are) (PP (IN off) (NP (DT the) (NN field))))))))) (. .))

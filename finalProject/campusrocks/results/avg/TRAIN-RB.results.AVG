@@ -1,0 +1,11 @@
+TRAIN-RB
+
+                        -1      1
+                -1  9013.30  83.90
+                 1   59.20  315.30
+
+                (row = reference; col = test)
+
+avg precision: 0.790764
+avg recall: 0.841927
+avg f1: 0.815159

@@ -1,0 +1,1 @@
+(S (NP (NNP German) (NNP Finance) (NNP Minister) (NNP Theo) (NNP Waigel)) (VP (VBD said) (NP (NNP Oct.) (CD 20)) (SBAR (IN that) (S (NP (NN tax) (NN revenue)) (VP (VBZ is) (ADJP (ADVP (RBR less) (IN than)) (VBN estimated)) (, ,) (SBAR (IN although) (VP (AUX did) (RB n't) (VP (VB say) (WHPP (IN by) (WHNP (WRB how) (JJ much)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNP Moscow)) (, ,) (PP (IN for) (NP (NN example))) (, ,) (VP (VBZ is) (NP (NP (DT a) (NN city)) (PP (IN of) (NP (NP (JJ rotary-dial) (NNS telephones)) (, ,) (SBAR (WHNP (NP (DT each)) (WHPP (IN of) (WHNP (WDT which)))) (VP (VBZ receives) (NP (RB only) (CD one) (NN line)))))))) (. .))

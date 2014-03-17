@@ -1,0 +1,1 @@
+(S (NP (DT The) (JJ new) (NN program)) (VP (VBZ includes) (NP (NP (NN something)) (VP (VBN called) (NP (DT a) (NN Taskbar))) (, ,) (SBAR (WHNP (WDT which)) (VP (VP (VBZ shows) (SBAR (WHNP (WDT which) (NNS applications)) (VP (VBP are) (ADJP (JJ open))))) (CC and) (VP (VBZ simplifies) (VP (VBG switching) (PP (IN between) (NP (PRP them))))))))) (. .))

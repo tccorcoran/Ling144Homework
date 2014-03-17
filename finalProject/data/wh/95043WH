@@ -1,0 +1,1 @@
+(S (VP (VBG Selling) (NP (NNS bonds)) (PP (IN before) (NP (NN maturity))) (PP (IN into) (NP (NP (DT a) (NN market)) (SBAR (WHADVP (WRB where)) (S (NP (NNS rates)) (VP (AUX are) (VP (VBG rising)))))))) (VP (MD will) (VP (VB result) (PP (IN in) (NP (NP (DT a) (NN loss)) (CC or) (NP (NN principal)))))) (. .))

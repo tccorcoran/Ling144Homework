@@ -1,0 +1,1 @@
+(S (NP (NP (NNS Reporters)) (SBAR (WHNP (WP who)) (VP (AUX had) (VP (VBN spoken) (PP (IN with) (NP (DT the) (NN boy))) (PP (IN through) (NP (DT an) (NN interpreter))))))) (VP (VBD asked) (NP (DT a) (JJ local) (NN aid) (NN worker)) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NN boy)) (VP (MD could) (VP (VB get) (NP (NN help))))))) (. .))

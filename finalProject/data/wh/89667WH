@@ -1,0 +1,1 @@
+(S (S (NP (PRP She)) (VP (VBD said) (S (NP (PRP it)) (VP (VBD was) (RB almost) (PP (IN like) (NP (DT the) (NN earthquake))))))) (: ;) (S (NP (PRP she)) (VP (VP (VBD heard) (NP (NN something))) (, ,) (CC yet) (VP (VBD was) (ADJP (JJ unsure) (SBAR (WHNP (RB exactly) (WP what)) (S (NP (PRP it)) (VP (VBD was) (S (NP (PRP she)) (VP (VBD heard)))))))))) (. .))

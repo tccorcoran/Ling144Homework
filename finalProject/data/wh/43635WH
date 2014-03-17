@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NNP PCR) (NN test)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ has) (NP (NP (DT an) (NN accuracy) (NN rate)) (PP (IN of) (NP (CD 93) (NN percent)))))) (, ,)) (VP (MD can) (VP (AUX be) (VP (VBN done) (ADVP (RB quickly)) (PP (IN by) (NP (JJ local) (NNS labs)))))) (. .))

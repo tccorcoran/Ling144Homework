@@ -1,0 +1,1 @@
+(NP (NP (NNP Q)) (: :) (SBARQ (WHADVP (WRB When)) (SQ (AUX did) (NP (NN history)) (VP (ADVP (RB first)) (VB record) (NP (DT the) (JJ bubonic) (NN plague)) (, ,))) (CC and) (WHADVP (WRB how) (RB long)) (VP (VBD was) (NP (PRP it)) (SBAR (IN until) (S (NP (DT the) (NN cause)) (VP (AUX was) (VP (VBN discovered)))))) (. ?)))

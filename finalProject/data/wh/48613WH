@@ -1,0 +1,1 @@
+(S (NP (NP (NNP GM) (NNP Class) (NNP H) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ represents) (NP (NNP GM) (NNP Hughes) (NNP Electronics)))) (, ,)) (VP (VBD lost) (NP (CD 50) (NNS cents)) (PP (IN in) (NP (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading)) (NP (NNP Monday)))) (, ,) (VP (VBG closing) (PP (IN at) (NP ($ $) (CD 35.50))))) (. .))

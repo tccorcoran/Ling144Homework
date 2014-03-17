@@ -1,0 +1,1 @@
+(S (SBAR (IN While) (S (NP (PRP we)) (VP (VBD waited)))) (NP (PRP I)) (ADVP (RB accidentally)) (VP (VBD made) (NP (DT a) (JJ small) (NN noise)) (SBAR (WHADVP (WRB when)) (S (S (NP (PRP$ my) (NN shoe)) (VP (VBD touched) (NP (DT a) (NN stick)))) (CC and) (S (NP (PRP I)) (VP (VBD had) (VP (TO to) (VP (VB run)))))))) (. .))

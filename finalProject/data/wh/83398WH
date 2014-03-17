@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (NNP Artist) (NNS residencies)) (VP (VBP are) (ADJP (JJ great)))) (PRN (, ,) ('' '') (S (NP (NNP Dik)) (VP (VBD said))) (, ,)) (`` ``) (CC but) (SBARQ (WHNP (WP what)) (VP (VBZ happens) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS artists)) (VP (VBP leave))))) (. ?)))

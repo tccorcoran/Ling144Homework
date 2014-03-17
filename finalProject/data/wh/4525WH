@@ -1,0 +1,1 @@
+(SBAR (IN If) (S (NP (DT the) (`` ``) (NNP Town) (CC and) (NNP Country) ('' '') (NNS figures)) (VP (VBP are) (ADJP (JJ true)) (PRN (-LRB- -LRB-) (SBARQ (CC and) (WHADVP (WRB how)) (SQ (VBP am) (NP (PRP I)) (VP (VBN supposed) (VP (TO to) (VP (VB know))))) (. ?)) (-RRB- -RRB-)))))

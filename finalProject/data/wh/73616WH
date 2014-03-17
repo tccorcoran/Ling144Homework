@@ -1,0 +1,1 @@
+(S (PP (IN Under) (NP (DT the) (JJ current) (NN system))) (, ,) (NP (PRP it)) (VP (VBZ takes) (NP (CD two) (NNS minutes)) (SBAR (IN for) (S (NP (DT a) (NN dispatcher)) (VP (TO to) (VP (VB estimate) (NP (NP (DT the) (NN location)) (PP (IN of) (NP (DT a) (NN bus)))) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ silent) (NN alarm)) (VP (AUX is) (VP (VBN triggered)))))))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NNS Tickets)) (VP (VBP are) (NP ($ $) (CD 30)))) (, ,) (CC and) (S (NP (NP (DT the) (NN theater)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ holds) (NP (CD 1,000)))) (, ,)) (VP (AUX is) (VP (VBN filled)))) (. .))

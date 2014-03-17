@@ -1,0 +1,1 @@
+(S (ADVP (RB Back) (PP (IN in) (NP (CD 1987)))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN network)) (VP (VBD had) (NP (QP (RB only) (IN about) (CD 1,000th)) (PP (IN of) (NP (PRP$ its) (JJ current) (NN capacity))))))) (, ,) (NP (NN overuse)) (ADVP (RB almost)) (VP (VBD shut) (PRT (RP down)) (NP (DT the) (NN Internet))) (. .))

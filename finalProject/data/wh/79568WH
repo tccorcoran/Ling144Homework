@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (PRP you)) (VP (VB sit) (CC and) (VP (VB think) (PP (IN about) (NP (PRP it))) (PP (IN for) (NP (DT a) (NN while))))))) (, ,) (SBARQ (WHPP (IN in) (WHNP (WHADJP (WHADVP (WRB how) (JJ many)) (JJ different)) (NNS situations))) (SQ (AUX does) (NP (DT a) (NN chicken)) (ADVP (RB really)) (VP (VB need) (VP (TO to) (VP (VB communicate))))) (. ?)))

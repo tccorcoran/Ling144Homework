@@ -1,0 +1,11 @@
+TRAIN-NN
+
+                        -1      1
+                -1  9013.10  84.10
+                 1   58.90  315.60
+
+                (row = reference; col = test)
+
+avg precision: 0.790400
+avg recall: 0.842728
+avg f1: 0.815376

@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN waiter)) (VP (VP (VBZ returns) (NP (DT the) (NN terminal)) (PP (TO to) (NP (NP (PRP$ its) (NN base) (NN station)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ connects) (PP (TO to) (NP (DT a) (NN computer) (NN network)))))))) (, ,) (VP (VBZ authorizes) (NP (DT the) (NN transaction))) (CC and) (VP (VBZ prints) (NP (DT a) (NN receipt)))) (. .))

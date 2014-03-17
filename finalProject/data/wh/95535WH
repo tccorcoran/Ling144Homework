@@ -1,0 +1,1 @@
+(S (VP (VBN Born) (PP (IN in) (NP (NNP Philadelphia)))) (, ,) (NP (NNP Delaney)) (VP (VBD graduated) (PP (IN from) (NP (NP (NP (NNP Howard) (NNP University)) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (ADVP (RB also)) (VP (VBD earned) (NP (NP (DT a) (NN master) (POS 's)) (NN degree)))))) (CC and) (NP (NP (DT a) (NN doctorate)) (PP (IN in) (NP (NN chemistry))))))) (. .))

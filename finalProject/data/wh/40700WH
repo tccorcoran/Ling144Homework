@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NP (DT No) (CD one)) (SBAR (WHNP (WP who)) (VP (VBZ owns) (NP (NP (NNS buildings)) (PP (IN in) (NP (NP (DT this) (NN neighborhood)) (PP (IN of) (NP (NP (JJ poor) (NNS whites)) (CC and) (NP (NNS blacks) (CC and) (NNS immigrants)))))))))) (VP (VBZ cares) (SBAR (IN whether) (S (NP (PRP$ their) (NNS tenants)) (VP (VBP are) (ADJP (JJ happy)))))) (. .))

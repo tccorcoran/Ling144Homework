@@ -1,0 +1,1 @@
+(S (S (NP (NN Bird)) (VP (VBD said) (SBAR (WHADVP (WRB when)) (VP (VBN informed) (PP (IN of) (NP (NP (NNP Fitch) (POS 's)) (NN hiring))))))) (: :) (`` ``) (S (NP (NNP Bill) (NNP Fitch)) (VP (VBZ gives) (NP (DT every) (NN player)) (NP (NP (DT the) (NN benefit)) (PP (IN of) (NP (PRP$ his) (NN experience) (CC and) (NN knowledge)))))) (. .))

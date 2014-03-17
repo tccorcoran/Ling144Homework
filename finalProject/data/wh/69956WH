@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (CD 1992))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (NNP Gowda)) (VP (VBD moved) (NP (PRP$ his) (NN office)) (PP (IN from) (NP (NNP JFK) (NNP Medical) (NNP Center))) (PP (TO to) (NP (NNP St.) (NNP Mary) (POS 's)))))) (, ,) (NP (NNP Harold)) (VP (VBD helped) (S (NP (PRP him)) (VP (VB pack) (CC and) (VB unpack) (NP (NNS boxes))))) (. .))

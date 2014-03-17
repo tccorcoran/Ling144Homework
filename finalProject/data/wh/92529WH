@@ -1,0 +1,1 @@
+(S (`` ``) (S (SBAR (SBAR (WHNP (WP What)) (S (NP (PRP I)) (VP (VBP earn)))) (, ,) (CC and) (SBAR (WHNP (WP what)) (S (NP (NP (PRP$ my) (NN company)) (, ,) (NP (NNP W.J.) (NNP Nolan)) (, ,)) (VP (VBZ earns))))) (, ,) (VP (AUX is) (VP (VBN built) (PP (IN into) (NP (DT the) (NN price)))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD replied)) (. .))

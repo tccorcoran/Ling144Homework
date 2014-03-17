@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN person)) (ADJP (RB close) (PP (TO to) (NP (DT the) (NN company))))) (VP (VBZ expects) (S (NP (DT the) (NNS moves)) (VP (TO to) (VP (VB eliminate) (NP (NP (QP (IN at) (JJS least) ($ $) (CD 500) (CD million)) (PP (IN in) (NP (NNS expenses)))) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD were) (QP ($ $) (CD 11.8) (CD billion)) (NP (JJ last) (NN year))))))))) (. .))

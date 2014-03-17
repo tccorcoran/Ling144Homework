@@ -1,0 +1,1 @@
+(S (NP (DT A) (JJ new) (NN airline)) (, ,) (NP (NP (NNP Valujet)) (, ,) (SBAR (WHNP (WDT which)) (VP (VP (VBD started) (NP (NN service)) (NP (JJ last) (NNP October))) (CC and) (ADVP (RB now)) (VP (VBZ flies) (PP (TO to) (NP (NP (CD 16) (NNS cities)) (PP (IN from) (NP (NNP Atlanta)))))))) (, ,)) (VP (AUX has) (ADVP (RB never)) (VP (VBN used) (NP (NNS tickets)))) (. .))

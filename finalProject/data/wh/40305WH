@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NP (DT A) (NN person)) (SBAR (WHNP (WP who)) (VP (VBZ 's) (ADJP (JJ strange)) (PP (IN about) (NP (QP (RB only) (CD one) (CC or) (CD two)) (NNS things))) (, ,)))) (VP (VP (VBZ thinks) (PP (IN about) (NP (PRP them))) (NP (PDT all) (DT the) (NN time))) (, ,) (CC and) (VP (VBZ is)) (VP (VB mean) (PP (TO to) (NP (NNS people))))) (. .) ('' ''))

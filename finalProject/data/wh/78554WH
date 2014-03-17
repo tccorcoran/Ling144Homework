@@ -1,0 +1,1 @@
+(S (SBAR (IN With) (S (NP (DT the) (NN door)) (ADJP (JJ open)))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (NN place)) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (MD can) (VP (VB escape) (NP (NP (DT the) (NN noise) (CC and) (JJ visual) (NNS stimuli)) (PP (IN of) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN ward)))))))))))) (. .))

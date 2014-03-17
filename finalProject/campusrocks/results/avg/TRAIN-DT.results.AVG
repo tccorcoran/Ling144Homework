@@ -1,0 +1,11 @@
+TRAIN-DT
+
+                        -1      1
+                -1  9018.80  78.40
+                 1   54.80  319.70
+
+                (row = reference; col = test)
+
+avg precision: 0.803820
+avg recall: 0.853679
+avg f1: 0.827702

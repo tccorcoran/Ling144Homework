@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN team)) (VP (VBZ needs) (NP (DT a) (NN metronome)) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD needed) (NP (DT a) (NN leader)))))))) (: --) (S (NP (NP (NN someone)) (SBAR (WHNP (WP who)) (VP (VBZ keeps) (NP (NN time))))) (, ,) (VP (VBZ helps) (S (NP (DT the) (NN team)) (VP (VB regain) (NP (PRP$ its) (NN rhythm)))))) (. .))

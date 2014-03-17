@@ -1,0 +1,1 @@
+(FRAG (NP (NNP Q)) (: :) (FRAG (WHNP (WP What)) (PP (IN about) (NP (NP (DT the) (NNS critics)) (SBAR (WHNP (WP who)) (VP (VBP say) (S (NP (DT the) (NNPS Mavericks)) (VP (MD would) (VP (VB be) (ADJP (JJR better) (RP off) (PP (IN without) (NP (PRP you)))))))))))) (. ?))

@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP They)) (VP (VBP go) (PP (IN into) (NP (NN hibernation))) (PP (IN for) (NP (CD three) (NNS months))))) (: ;) (ADVP (RB then)) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out))))) (, ,) (NP (PRP they)) (VP (VBP remember) (NP (PRP us)))) (. .) ('' ''))

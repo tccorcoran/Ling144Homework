@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (NN mortgage) (NN fraud)) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NN loan) (NNS applicants)) (VP (VBP submit) (NP (NP (JJ false) (JJ financial) (NNS data)) (VP (TO to) (VP (VB secure) (NP (NN credit)))))))) (, ,)) (VP (AUX has) (VP (VBN climbed) (ADVP (RB significantly)))) (. .))

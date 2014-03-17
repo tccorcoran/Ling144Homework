@@ -1,0 +1,1 @@
+(S (: --) (NP (NP (NNS Hospitals) (CC and) (NNS doctors)) (SBAR (WHNP (WP who)) (VP (VBP treat) (NP (NNP Medicare) (CC or) (NNP Medicaid) (NNS patients))))) (VP (MD will) (VP (VB raise) (NP (PRP$ their) (NNS fees)) (PP (IN for) (NP (ADJP (RB privately) (VBN insured)) (NNS families))))) (. .))

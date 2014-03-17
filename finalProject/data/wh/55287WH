@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP Dayton) (NNP Hudson) (POS 's)) (NN department) (NN store) (NN division)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ operates) (NP (NP (NNP Marshall) (NNP Field) (POS 's)) (, ,) (NP (NNP Dayton) (POS 's)) (CC and) (NP (NNP Hudson) (POS 's))))) (, ,)) (VP (VBD saw) (S (NP (PRP$ its) (JJ comparable-store) (NNS sales)) (VP (VB rise) (NP (CD 6) (NN percent))))) (. .))

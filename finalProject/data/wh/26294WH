@@ -1,0 +1,1 @@
+(S (NP (DT The) (NNP IBM) (NN PC) (NN line)) (VP (VBZ includes) (NP (NP (NP (DT the) (CD 300) (NN series)) (PP (IN of) (NP (`` ``) (JJ value-priced) ('' '') (NNS machines)))) (, ,) (CC and) (NP (NP (DT a) (JJ higher-priced) (CD 700) (NN series)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBP use) (NP (NP (NNP Intel) (NNP Corp.) (POS 's)) (NNP Pentium) (NN microprocessor))))))) (. .))

@@ -1,0 +1,1 @@
+(S (`` ``) (S (S (NP (PRP I)) (VP (AUX do) (RB n't) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (MD could) (VP (VB be)))))))) (: --) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (PP (IN against) (NP (DT a) (NN player))))))) (CC or) (S (NP (PRP it)) (VP (MD could) (VP (VB be) (NP (DT a) (NN tournament))))) (. .))

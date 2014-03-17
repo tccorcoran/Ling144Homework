@@ -1,0 +1,1 @@
+(NP (NP (NNP Q)) (: :) (SBARQ (SBAR (IN If) (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ appropriate)) (VP (TO to) (VP (VB make) (NP (DT these) (NNS payments)) (SBAR (IN before) (S (NP (PRP you)) (VP (VBD went) (PP (IN into) (NP (NN government))))))))))) (, ,) (WHADVP (WRB why)) (SQ (AUX was) (NP (PRP it)) (ADJP (JJ inappropriate)) (VP (TO to) (VP (VB continue)))) (. ?)))

@@ -1,0 +1,193 @@
+Loading dataset feats.dat...
+done
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9564>  12 |
+ 1.0 |  324  <71>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.86      0.18      0.30       395
+
+avg / total       0.96      0.97      0.96      9971
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9563>  13 |
+ 1.0 |  350  <45>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.96      1.00      0.98      9576
+        1.0       0.78      0.11      0.20       395
+
+avg / total       0.96      0.96      0.95      9971
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9564>  12 |
+ 1.0 |  324  <71>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.86      0.18      0.30       395
+
+avg / total       0.96      0.97      0.96      9971
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9566>  10 |
+ 1.0 |  328  <66>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.87      0.17      0.28       394
+
+avg / total       0.96      0.97      0.95      9970
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9564>  12 |
+ 1.0 |  332  <62>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.84      0.16      0.26       394
+
+avg / total       0.96      0.97      0.95      9970
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9566>  10 |
+ 1.0 |  340  <54>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.84      0.14      0.24       394
+
+avg / total       0.96      0.96      0.95      9970
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9560>  16 |
+ 1.0 |  323  <71>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.82      0.18      0.30       394
+
+avg / total       0.96      0.97      0.96      9970
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9565>  11 |
+ 1.0 |  330  <64>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.85      0.16      0.27       394
+
+avg / total       0.96      0.97      0.95      9970
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9566>  10 |
+ 1.0 |  327  <67>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.87      0.17      0.28       394
+
+avg / total       0.96      0.97      0.96      9970
+
+Fitting data...
+Making Predictions...
+     |    -      |
+     |    1    1 |
+     |    .    . |
+     |    0    0 |
+-----+-----------+
+-1.0 |<9566>  10 |
+ 1.0 |  336  <58>|
+-----+-----------+
+(row = reference; col = test)
+
+             precision    recall  f1-score   support
+
+       -1.0       0.97      1.00      0.98      9576
+        1.0       0.85      0.15      0.25       394
+
+avg / total       0.96      0.97      0.95      9970
+

@@ -1,0 +1,1 @@
+(NP (: --) (NP (NP (NNP Warren)) (, ,) (SBAR (WHNP (WP what)) (S (PP (IN in) (NP (DT the) (NN heck))) (VP (VBD happened) (PP (IN in) (NP (NP (DT that) (NN playoff) (NN game)) (PP (IN at) (NP (NNP Buffalo))))))))) (. ?))

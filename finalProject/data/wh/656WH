@@ -1,0 +1,1 @@
+(NP (NP (NNP Q)) (: :) (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS members)) (VP (VBP are) (ADVP (RB there)) (PP (IN in) (NP (NP (DT the) (NNP House)) (PP (IN of) (NP (NNP Representatives))) (, ,)))) (CC and) (WHNP (WRB how) (JJ much)) (SQ (AUX has) (NP (DT this) (NN number)) (VP (VBN increased) (PP (IN over) (NP (DT the) (JJ past) (NN decade))))) (. ?)))

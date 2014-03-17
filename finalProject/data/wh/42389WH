@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN company) (POS 's)) (NN stock)) (VP (VBD plunged) (PP (IN below) (NP (NP ($ $) (CD 1)) (NP (DT a) (NN share)))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (AUX has) (VP (VBN remained)))))) (. .))

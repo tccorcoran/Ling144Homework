@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NP (NNP Boeing) (POS 's)) (NNS attempts)) (PP (IN at) (VP (VBG building) (NP (DT a) (JJ first-generation) (JJ supersonic) (NN aircraft))))) (ADVP (NP (CD 20) (NNS years)) (RB ago))) (VP (VBD failed) (SBAR (WHADVP (WRB when)) (S (NP (NNP Congress)) (ADVP (RB abruptly)) (VP (VBD cut) (PRT (RP off)) (NP (NN money)))))) (. .))

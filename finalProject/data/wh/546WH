@@ -1,0 +1,1 @@
+(NP (NP (DT A)) (: :) (S (NP (DT A) (NN barometer)) (VP (VBZ measures) (SBAR (WHADVP (WRB how) (RB heavily)) (S (NP (DT the) (NN air)) (VP (AUX is) (VP (VBG pressing) (PP (IN on) (NP (DT the) (NN Earth))))))))) (. .))

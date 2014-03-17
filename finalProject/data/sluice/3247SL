@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP I)) (VP (AUX 've) (VP (VBN done) (NP (PRP it)) (ADVP (RB before))))) (PRN (, ,) ('' '') (S (NP (PRP he)) (VP (VBD said))) (, ,)) (SBAR (IN though) (S (NP (PRP he)) (VP (VBD was) (RB not) (ADJP (JJ able) (VP (TO to) (VP (VB remember) (WHADVP (WRB where) (CC or) (WRB when)))))))) (. .))

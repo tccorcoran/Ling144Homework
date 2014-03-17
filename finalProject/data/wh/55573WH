@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP Orange) (NNP County) (POS 's)) (NNP Costa) (NNP Mesa) (NNP Police) (NNP Department)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD handled) (NP (DT the) (NN case)))) (, ,)) (VP (VBD said) (S (NP (DT no) (NNS investigators)) (VP (VBD were) (ADJP (JJ available) (VP (TO to) (VP (VB comment) (PP (IN on) (NP (DT the) (NN case))))))))) (. .))

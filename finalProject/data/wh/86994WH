@@ -1,0 +1,1 @@
+(S (S (NP (PRP He)) (VP (VBZ is) (ADJP (JJ bearded) (CC and) (JJ bright-eyed)))) (: ;) (S (NP (PRP he)) (VP (VBZ is) (ADVP (RB clearly)) (ADJP (VBN excited) (VP (TO to) (VP (VB be) (SBAR (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBZ is)))) (CC and) (SBAR (WHNP (WP who)) (S (NP (PRP he)) (VP (VBZ is)))))))))) (. .))

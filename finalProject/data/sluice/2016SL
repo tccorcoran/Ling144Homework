@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (DT the) (NN library)) (VP (VBZ includes) (NP (NP (NNS macros)) (SBAR (WHNP (WDT that)) (VP (MD will) (VP (ADVP (RB automatically)) (VB find) (CC and) (VP (VB remove) (NP (JJ empty) (NNS spaces) (CC and) (NNS paragraphs)) (PP (IN in) (NP (DT a) (NN document))))))))) (. .))

@@ -1,0 +1,1 @@
+(FRAG (NP (NP (CD One) (NN liberal)) (SBAR (WHNP (WP who)) (VP (AUX did)))) (: :) (NP (NP (NNP Bob) (NNP Ray) (NNP Sanders)) (, ,) (SBAR (WHNP (WP who)) (VP (VBD bounced) (PP (IN around) (NP (NP (NNP KLIF) (POS 's)) (NN schedule))) (SBAR (IN until) (S (NP (PRP he)) (VP (AUX was) (VP (VBD bounced) (PRT (RP out))))))))) (. .))

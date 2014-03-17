@@ -1,0 +1,1 @@
+(NP (NP (NNP Ralph) (NNP Hall)) (, ,) (NP (NNP D-Tex.)) (, ,) (CC and) (NP (NP (NNP Jane) (NNP Harman)) (, ,) (NP (NNP D-Calif.)) (, ,) (SBAR (WHNP (WP who)) (S (DT both) (VP (VBD voted) (PP (IN against) (NP (NP (NN passage)) (PP (IN of) (NP (DT the) (ADJP (JJ North) (JJ American)) (NNP Free) (NNP Trade) (NNP Agreement))))) (NP (JJ last) (NN year)))))) (. .))

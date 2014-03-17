@@ -1,0 +1,1 @@
+(S (`` ``) (SBAR (IN If) (S (NP (DT the) (NN doctor)) (VP (AUX does) (RB n't) (VP (VB have) (NP (NP (NN time)) (VP (TO to) (VP (VB go) (PP (IN through) (NP (PRP$ your) (NNS meds))) (PP (IN with) (NP (PRP you)))))))))) (, ,) (ADVP (RB then)) (VP (VB find) (NP (NP (DT a) (NN doctor)) (SBAR (WHNP (WP who)) (VP (AUX does))))) (. .) ('' ''))

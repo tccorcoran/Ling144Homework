@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (VP (ADVP (RB only) (RB recently)) (VBD recovered) (NP (NP (DT a) (NN bit)) (PP (IN from) (NP (NP (DT a) (JJ big) (NN drop)) (PP (IN during) (NP (DT the) (JJ past) (NN month)))))))) (, ,)) (VP (VBD closed) (NP (NNP Monday)) (PP (IN at) (NP ($ $) (CD 50))) (, ,) (ADVP (RB down) (NP (CD 62.5) (NNS cents)))) (. .))

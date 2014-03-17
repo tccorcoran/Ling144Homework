@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (NNP Byrd)) (VP (AUX were) (VP (VBG playing) (NP (NN poker)))))) (, ,) (NP (PRP he)) (VP (MD 'd) (VP (VB know) (SBAR (WHADVP (WRB when)) (VP (TO to) (VP (VP (VB hold) ('' ') (NP (NN em))) (CC and) (VP (VB know) (SBAR (WHADVP (WRB when)) (VP (TO to) (VP (VB fold) ('' ') (NP (NN em))))))))))) (. .))

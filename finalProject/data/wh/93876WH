@@ -1,0 +1,1 @@
+(S (S (S (PP (IN In) (NP (NP (NNS countries)) (PP (IN like) (NP (NNP Germany))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NN insurance)) (VP (AUX is) (VP (VBN required) (PP (IN by) (NP (NN law))))))))) (, ,) (NP (DT the) (NN company)) (VP (VBZ pays))) (CC but) (S (NP (DT the) (NNS pizzas)) (VP (VBD cost) (NP (JJR more))))) (, ,) (NP (PRP he)) (VP (VBD said)) (. .))

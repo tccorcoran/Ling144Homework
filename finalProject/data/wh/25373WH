@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN file)) (VP (MD will) (ADVP (RB automatically)) (VP (VB uncompress) (NP (PRP itself)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VP (NN type) (NP (PRP$ its) (NN name))) (CC and) (VP (VBD hit) (NP (NNP ENTER)))))))) (. .))

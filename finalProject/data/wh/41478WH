@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (JJ main) (NN candidate)) (PP (IN for) (NP (DT the) (ADJP (JJ removable) (CC and) (JJ rewriteable)) (NN data) (NN storage)))) (VP (VBZ is) (NP (NP (DT the) (JJ magneto-optical) (NN disk)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ uses) (NP (NNS lasers)) (VP (TO to) (VP (VB read) (CC and) (VP (VB write) (NP (NN information))))))))) (. .))

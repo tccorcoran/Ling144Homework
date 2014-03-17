@@ -1,0 +1,1 @@
+(S (NP (NNP Johnson) (CC &) (NNP Johnson)) (VP (AUX did) (VP (VB establish) (NP (DT a) (JJ 52-week) (NN high)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD reached) (NP (CD 54)) (PP (IN in) (NP (JJ intraday) (NN trading))) (PP (IN before) (VP (VBG closing) (PP (IN at) (NP (NP (CD 54) (NNS -LCB-)) (, ,) (ADVP (RB up) (QP (CD 1) (CD -RSB-)))))))))))) (. .))

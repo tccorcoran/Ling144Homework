@@ -1,0 +1,1 @@
+(S (LST (LS 3) (-RRB- -RRB-)) (SBAR (IN Assuming) (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (DT a) (NN plan)))))) (, ,) (SBARQ (WHADVP (WRB how)) (SQ (AUX do) (NP (PRP we)) (VP (VB pay) (PP (IN for) (NP (PRP it))))) (. ?)))

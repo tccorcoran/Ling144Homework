@@ -1,0 +1,1 @@
+(S (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB now)) (VP (VBZ has) (NP (NP (QP (JJR more) (IN than) (PDT half)) (DT a) (NN dozen) (NNS lines)) (PP (IN of) (NP (JJ personal) (NNS computers))))))) (, ,)) (VP (VBD said) (S (NP (PRP it)) (VP (MD would) (VP (VB simplify) (NP (DT this) (NN lineup)))))) (. .))

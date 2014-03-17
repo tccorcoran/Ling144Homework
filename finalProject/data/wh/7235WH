@@ -1,0 +1,1 @@
+(S (CC And) (SBAR (IN if) (S (S (S (NP (PRP it)) (VP (VBZ looks) (PP (IN like) (NP (PRP it))))) (CC and) (S (NP (PRP it)) (VP (VBZ feels) (PP (IN like) (NP (PRP it)))))) (CC and) (S (NP (PRP it)) (VP (VBZ smells) (PP (IN like) (NP (PRP it))))))) (, ,) (NP (PRP we)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is))))) (. .) ('' ''))

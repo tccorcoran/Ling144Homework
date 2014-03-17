@@ -1,0 +1,1 @@
+(S (`` ``) (SBAR (IN If) (S (NP (PRP he)) (VP (VBZ is)))) (PRN (, ,) ('' '') (S (NP (NNP Arlington) (NN resident) (NNP Tom) (NNP Grieve)) (VP (VBD said) (NP (NNP Thursday)))) (, ,)) (`` ``) (ADVP (RB then)) (NP (VB let) (POS 's)) (VP (VBP try) (VP (TO to) (VP (VB understand) (WHADVP (WRB why))))) (. .))

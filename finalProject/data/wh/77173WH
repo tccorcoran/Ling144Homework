@@ -1,0 +1,1 @@
+(S (`` ``) (SBAR (IN If) (S (NP (DT a) (NN person)) (VP (VBZ is) (RB not) (VP (VBN trained) (SBAR (WHADVP (WRB how)) (VP (TO to) (VP (VB be) (NP (DT an) (NN adult))))))))) (, ,) (SBARQ (WHADVP (WRB how)) (SQ (MD can) (NP (PRP we)) (VP (VB expect) (S (NP (PRP them)) (VP (TO to) (VP (VB act) (PP (IN like) (NP (DT an) (NN adult)))))))) (. ?)))

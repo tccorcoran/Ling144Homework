@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT The) (NN company) (POS 's)) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD closed) (NP (NNP Friday)) (PP (IN at) (NP ($ $) (CD 22.75))) (ADVP (RB up) (NP (CD 1/8))))) (, ,)) (DT That) (VP (VBZ is) (PP (RB well) (IN below) (NP (NP (PRP$ its) (NN high)) (PP (IN of) (NP ($ $) (CD 35))) (NP (JJ last) (NNP September))))) (. .))

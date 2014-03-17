@@ -1,0 +1,1 @@
+(FRAG (NP (NNP Q)) (: :) (SINV (VBD Was) (NP (NP ($ $) (CD 4,000)) (NP (DT a) (NN month)) (PP (IN in) (NP (NP (DT the) (NN ballpark)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (AUX were) (VP (VBG paying)))))))))) (PRN (-LRB- -LRB-) (NNP Medlar) (-RRB- -RRB-)) (. ?))

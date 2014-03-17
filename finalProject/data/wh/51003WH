@@ -1,0 +1,1 @@
+(S (NP (NP (NNP OneComm)) (PRN (-LRB- -LRB-) (NP (NP (NNP NSDQ)) (: :) (NP (NNP ONEC))) (-RRB- -RRB-)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP Nextel)) (VP (AUX is) (VP (VBG buying))))) (, ,)) (VP (VBD was) (ADVP (RB down) (QP (CD 1) (CD 1/16))) (PP (TO to) (QP (CD 21) (CD 1/2)))) (. .))

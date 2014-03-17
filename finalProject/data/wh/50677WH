@@ -1,0 +1,1 @@
+(S (NP (NP (NNP MS-DOS)) (CC and) (NP (NP (DT the) (NNP Windows) (NN program)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ makes) (S (NP (NNS DOS)) (ADJP (JJR easier)) (VP (TO to) (VP (VB use)))))) (, ,))) (VP (AUX are) (VP (VBN installed) (PP (IN in) (NP (NP (NNS millions)) (PP (IN of) (NP (NP (NNS computers)) (ADJP (JJ worldwide)))))))) (. .))

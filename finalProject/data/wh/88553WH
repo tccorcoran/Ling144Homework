@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB remember) (SBAR (WHNP (WP who)) (VP (VBD won)))))) (: --) (S (S (NP (PRP I)) (VP (VBP think) (S (NP (PRP it)) (VP (VBD was) (NP (NNP Andre)))))) (: --) (CC but) (S (NP (PRP I)) (VP (VBP know) (S (NP (PRP he)) (VP (VBD stayed) (PP (IN in) (NP (PRP$ my) (NN house)))))))) (. .) ('' ''))

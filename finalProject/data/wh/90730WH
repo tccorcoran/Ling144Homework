@@ -1,0 +1,1 @@
+(S (S (NP (PRP We)) (VP (VBP specialize) (PP (IN in) (NP (NN software))))) (, ,) (S (NP (NNP Intel)) (VP (VBZ specializes) (PP (IN in) (NP (NNS chips))))) (, ,) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ many) (NNS people)) (SBAR (WHNP (WP who)) (VP (VBP specialize) (PP (IN in) (NP (NN distribution) (CC or) (NN consulting)))))))) (. .))

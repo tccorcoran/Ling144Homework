@@ -1,0 +1,1 @@
+(SINV (`` ``) (S (S (S (NP (PRP I)) (VP (AUX do) (RB n't) (VP (VB know) (WHADVP (WRB why))))) (, ,) (CC but) (S (ADVP (RB sometimes)) (PP (IN in) (NP (NN life))) (NP (NN something)) (VP (VBZ happens)))) (CC and) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ makes) (S (NP (PRP you)) (VP (VB think)))))) (, ,) (SBARQ (`` `) (WHNP (WP Who)) (VP (VBP am) (NP (PRP I))) (. ?)))

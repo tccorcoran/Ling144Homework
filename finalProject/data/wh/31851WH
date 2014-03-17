@@ -1,0 +1,1 @@
+(S (NP (NNP A.) (NNP Well)) (, ,) (SBAR (WHNP (WP what)) (S (NP (DT the) (NNP Mitchell) (NNP Bill)) (VP (AUX does)))) (VP (VBZ is) (VP (TO to) (VP (VB put) (NP (DT the) (NN employer) (NN requirement)) (PP (PP (IN at) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (NN process))))) (CONJP (RB rather) (IN than)) (PP (IN at) (NP (DT the) (NN beginning))))))) (. .))

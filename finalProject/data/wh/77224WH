@@ -1,0 +1,1 @@
+(S (`` ``) (SBAR (IN If) (S (NP (DT the) (NN board)) (VP (AUX did) (RB n't) (VP (VB hear) (NP (DT a) (NN presentation)))))) (, ,) (ADVP (RB then)) (SBARQ (WHADVP (WRB how)) (SQ (AUX were) (NP (PRP they)) (VP (TO to) (VP (VB know) (SBAR (IN whether) (VP (TO to) (VP (VB accept) (NP (PRP it))))))))) (. ?) ('' ''))

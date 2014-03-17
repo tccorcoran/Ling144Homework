@@ -1,0 +1,1 @@
+(S (NP (NP (DT The) (NN person)) (SBAR (WHNP (WP who)) (VP (VBD answered) (NP (NP (DT the) (NN number)) (VP (VBN listed) (PP (IN in) (NP (NN city) (NNS records))))) (PP (IN for) (NP (NP (DT the) (NN landlord)) (PP (IN of) (NP (DT the) (NNP Third) (NNP Avenue) (NN address)))))))) (VP (VBD said) (S (NP (PRP it)) (VP (AUX had) (VP (AUX been) (VP (VBN changed)))))) (. .))

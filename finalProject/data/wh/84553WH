@@ -1,0 +1,1 @@
+(S (S (NP (NNS Sellers)) (VP (VBP pay) (NP (DT the) (NN auctioneer)) (NP (NP (QP (IN about) (CD 25)) (NN percent)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP realize) (PP (IN from) (NP (DT the) (NN sale)))))))))) (: ;) (S (NP (NNS buyers)) (VP (VBP pay) (NP (DT a) (ADJP (CD 10) (NN percent)) (NN premium)))) (. .))

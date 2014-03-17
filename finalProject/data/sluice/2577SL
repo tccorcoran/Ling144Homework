@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NNP Pentagon)) (VP (VBD asked) (PP (IN for) (NP (DT the) (NN report))) (ADVP (NP (DT some) (NN time)) (RB ago)))) (PRN (, ,) (S (NP (DT the) (NN official)) (VP (VBD said))) (, ,)) (CC but) (S (NP (PRP he)) (VP (VBD added) (SBAR (IN that) (S (NP (PRP he)) (VP (AUX did) (RB not) (VP (VB know) (WHADVP (RB exactly) (WRB when)))))))) (. .))

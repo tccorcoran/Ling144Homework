@@ -1,0 +1,1 @@
+(S (S (NP (NP (JJ Such) (NN restraint)) (PP (IN in) (NP (NP (DT the) (NN face)) (PP (IN of) (NP (NN legislation)))))) (VP (AUX has) (VP (VBN happened) (ADVP (RB before))))) (: ;) (S (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN legislation)) (VP (VBD died)))) (, ,) (ADVP (RB so)) (VP (VBD did) (NP (DT the) (NN restraint)))) (. .))

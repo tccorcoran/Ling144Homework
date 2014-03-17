@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (CD one) (NN instance))) (, ,) (SBAR (WHADVP (RB even) (WRB when)) (S (NP (DT a) (NN client)) (VP (AUX had) (VP (ADVP (RB specifically)) (VBD requested) (SBAR (IN that) (S (NP (DT the) (NNS options) (NN trading)) (VP (AUX be) (VP (VBN stopped))))))))) (, ,) (NP (PRP it)) (VP (VBD continued)) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (DT Each)) (PP (IN of) (NP (DT the) (JJ worst-case) (NNS scenarios)))) (VP (AUX is) (VP (VBN modeled) (PP (IN on) (NP (DT an) (VBG existing) (NN fault) (NN system))) (SBAR (WHADVP (WRB where)) (S (NP (DT a) (JJ large) (NN earthquake)) (VP (AUX has) (VP (VBN occurred) (PP (IN in) (NP (DT the) (NN past))))))))) (. .))

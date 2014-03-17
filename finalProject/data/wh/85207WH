@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN meeting)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD lasted) (NP (QP (RB about) (CD three)) (NNS hours)))) (, ,)) (VP (VBD was) (ADJP (JJ cordial)))) (CC and) (S (NP (DT both) (NNS parties)) (VP (VBD agreed) (VP (TO to) (VP (VB commmunicate) (ADVP (RBR better)) (PP (IN in) (NP (DT the) (NN future))))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN With) (S (`` ``) (NP (NNP Windows) (NNP NT)) ('' ''))) (NP (PRP you)) (VP (MD can) (VP (VB run) (NP (NP (JJ large) (NN computer) (NNS networks)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ is) (SBAR (WHADVP (WRB where)) (S (NP (NNP Novell)) (VP (AUX has) (VP (VBN been) (ADJP (RB so) (JJ strong))))))))))) (. .))

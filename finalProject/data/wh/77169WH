@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT a) (NN member)) (VP (VBZ objects) (PP (TO to) (NP (DT a) (NN nominee)))))) (, ,) (NP (NP (DT the) (NN person)) (SBAR (WHNP (WP who)) (VP (AUX is) (VP (VBG proposing) (NP (DT the) (NN member)))))) (VP (ADVP (RB almost) (RB always)) (VBZ withdraws) (NP (DT the) (NN nomination))) (. .))

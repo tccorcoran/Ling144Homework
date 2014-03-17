@@ -1,0 +1,1 @@
+(S (`` ``) (NP (PRP I)) (VP (AUX 'd) (VP (VBN studied) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (MD could) (PP (IN about) (NP (DT the) (NN subject)))))) (SBAR (IN until) (S (NP (PRP I)) (VP (VBD thought) (S (NP (PRP I)) (VP (VBD knew) (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (AUX was) (VP (VBG doing)))))))))))) (. .))

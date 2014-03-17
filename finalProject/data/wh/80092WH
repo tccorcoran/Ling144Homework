@@ -1,0 +1,1 @@
+(S (S (CC And) (NP (PRP it)) (VP (VBZ 's) (ADVP (RB almost) (RB always)) (ADJP (JJ breezy)))) (: ;) (S (SBAR (WHADVP (RB even) (WRB when)) (S (NP (DT the) (NN temperature)) (VP (VBZ tops) (NP (CD 100))))) (, ,) (NP (DT a) (JJ hot) (, ,) (JJ gusty) (NN wind)) (ADVP (RB often)) (VP (VBZ blows) (PP (IN across) (NP (NN town))))) (. .))

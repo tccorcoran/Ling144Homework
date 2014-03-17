@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP$ my) (NN bike))))) (, ,) (NP (NP (DT the) (NN guy)) (SBAR (WHNP (WP who)) (VP (VBD sold) (NP (PRP it))))) (VP (VBD spent) (NP (CD 20) (NNS minutes)) (VP (VP (VBG tightening) (NP (PDT all) (DT the) (NNS bolts))) (CC and) (VP (VBG checking) (NP (DT the) (NNS tires))))) (. .))

@@ -1,0 +1,11 @@
+TRAIN-IN
+
+                        -1      1
+                -1  8921.50 175.70
+                 1   67.60  306.90
+
+                (row = reference; col = test)
+
+avg precision: 0.636790
+avg recall: 0.819499
+avg f1: 0.716386

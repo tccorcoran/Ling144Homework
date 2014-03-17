@@ -1,0 +1,1 @@
+(SBARQ (SBAR (IN If) (S (NP (EX there)) (VP (VBZ is) (NP (DT a) (NN clock)) (NP (DT this) (NN time))))) (, ,) (WHADVP (WRB when)) (SQ (MD will) (NP (PRP it)) (VP (VB tick) (PP (TO to) (NP (NP (DT the) (JJ magical) (NN moment)) (PP (IN of) (NP (NN decision))))))) (. ?))

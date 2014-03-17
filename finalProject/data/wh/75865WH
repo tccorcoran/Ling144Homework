@@ -1,0 +1,1 @@
+(S (`` ``) (S (ADVP (RB Anyway)) (, ,) (NP (PRP it)) (VP (VBZ 's) (RB not) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP do)))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP do) (NP (PRP it))))) (CC and) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP do) (NP (PRP it)) (PP (IN with))))))) (. .) ('' ''))

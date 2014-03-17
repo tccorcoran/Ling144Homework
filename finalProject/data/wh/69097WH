@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (NP (NP (DT the) (NN producer) (NN price) (NN index)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ measures) (NP (NP (NN inflation) (NNS pressures)) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP reach) (NP (DT the) (NN consumer)))))))) (, ,)) (VP (VBD jumped) (NP (CD 0.5) (NN percent)) (PP (IN in) (NP (NNP July)))) (. .))

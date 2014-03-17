@@ -1,0 +1,1 @@
+(S (PP (IN By) (NP (CD 1985))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN dollar)) (VP (VBD peaked)))) (, ,) (NP (NNP Merck)) (VP (AUX had) (VP (VBN seen) (S (NP (PRP$ its) (NNS revenues)) (VP (VBN reduced) (PP (IN by) (QP ($ $) (CD 900) (CD million))))) (PP (IN because) (IN of) (NP (NN currency) (NNS adjustments))))) (. .))

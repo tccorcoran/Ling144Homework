@@ -1,0 +1,1 @@
+(S (S (NP (JJ Artifical) (NN turf)) (VP (MD can) (VP (VB be) (ADJP (JJ hard))))) (, ,) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ cold)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN weather)) (VP (VBZ is) (ADJP (JJ cold))))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hot)) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN weather)) (VP (VBZ 's) (ADJP (JJ hot))))))) (. .))

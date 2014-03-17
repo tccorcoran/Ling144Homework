@@ -1,0 +1,11 @@
+TRAIN-CC
+
+                        -1      1
+                -1  9012.50  84.70
+                 1   59.20  315.30
+
+                (row = reference; col = test)
+
+avg precision: 0.789190
+avg recall: 0.841927
+avg f1: 0.814320

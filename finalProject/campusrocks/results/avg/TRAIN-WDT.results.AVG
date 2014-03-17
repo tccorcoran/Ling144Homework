@@ -1,0 +1,11 @@
+TRAIN-WDT
+
+                        -1      1
+                -1  8897.40 199.80
+                 1   85.20  289.30
+
+                (row = reference; col = test)
+
+avg precision: 0.592629
+avg recall: 0.772506
+avg f1: 0.670263

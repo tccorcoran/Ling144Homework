@@ -1,0 +1,1 @@
+(FRAG (RB Not) (NP (NP (NNP Medicare)) (, ,) (NP (NNP Medicaid)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ is) (ADJP (JJ different))))) (, ,) (SBAR (RB even) (IN though) (S (NP (NP (NNS lots)) (PP (IN of) (NP (ADJP (RB really) (JJ smart)) (NNS people)))) (VP (AUX do) (RB n't) (VP (VB know) (WHADVP (RB exactly) (WRB how)))))) (. .))

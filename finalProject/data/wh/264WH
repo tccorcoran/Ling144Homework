@@ -1,0 +1,1 @@
+(FRAG (NP (NNP Q)) (: :) (FRAG (WHNP (WP What)) (VP (VBZ is) (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (DT the) (NNS spacesuits))) (VP (VBN used) (PP (IN by) (NP (NP (NNS astronauts)) (SBAR (WHNP (WP who)) (VP (VBP make) (NP (NP (NNS spacewalks)) (PP (IN outside) (NP (DT the) (NN shuttle)))))))))))) (. ?))

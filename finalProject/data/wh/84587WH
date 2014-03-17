@@ -1,0 +1,1 @@
+(S (: --) (S (NP (NN Stupid)) (VP (VBZ is) (ADJP (RB as) (JJ stupid)))) (VP (VBZ does) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ is) (VP (TO to) (VP (VB say) (SBAR (IN that) (S (NP (JJ stupid)) (VP (VBZ is) (PP (IN in) (NP (NP (DT the) (NN eye)) (PP (IN of) (NP (DT the) (NN beholder))))))))))))) (. .))

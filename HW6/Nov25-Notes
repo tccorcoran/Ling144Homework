@@ -1,0 +1,23 @@
+labels: a,b,c    
+
+        1   2   3   4   5   
+
+    A   a   b   a   a   c
+
+    B   c   a   b   a   c
+
+
+confusion matrix:
+
+            B
+        a   b   c
+    a   1   1   1   |3
+                    |
+ A  b   1           |1
+                    |
+    c           1   |1
+    _______________ =5
+        2   1   2
+
+%agreement = # of agreements / total annotated
+            = 2/5 

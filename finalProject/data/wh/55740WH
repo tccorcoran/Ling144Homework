@@ -1,0 +1,1 @@
+(S (: -) (NP (NP (NP (NNP TWA) (POS 's)) (JJ international) (NN restructuring)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBZ includes) (VP (VBG dropping) (NP (NNS flights)) (PP (TO to) (NP (NP (NNP Geneva)) (CC and) (NP (NNP Zurich)))) (PP (IN in) (NP (NNP Switzerland)))))) (, ,)) (VP (AUX is) (ADVP (RB basically)) (VP (VBN completed))) (. .))

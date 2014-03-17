@@ -1,0 +1,1 @@
+(S (S (SBAR (WHNP (RB Just) (WP what)) (S (NP (NP (NNP Loews) (POS ')) (NNS plans)) (VP (VBP are)))) (VP (VBZ is) (RB not) (ADJP (JJ clear)))) (: ;) (S (NP (DT the) (NN company)) (VP (VBD said) (NP (NN yesterday)) (S (NP (EX there)) (VP (MD would) (VP (VB be) (NP (DT no) (NN comment))))))) (. .))

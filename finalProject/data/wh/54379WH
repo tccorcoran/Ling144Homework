@@ -1,0 +1,1 @@
+(S (NP (NP (NP (DT A) (NN spokesman)) (PP (IN for) (NP (DT the) (NN service)))) (, ,) (SBAR (WHNP (WDT which)) (VP (AUX is) (VP (VBN run) (PP (IN by) (NP (NNP AT&T)))))) (, ,)) (VP (VBD said) (S (NP (DT a) (JJ typical) (NN call)) (VP (MD can) (VP (AUX be) (VP (VBN handled) (PP (IN in) (NP (QP (JJR less) (IN than) (DT a)) (NN minute)))))))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Joe) (NNP Abrahamsen)) (, ,) (SBAR (WHNP (WP$ whose) (NN son)) (VP (VBZ plays) (PP (IN with) (NP (DT the) (NNP Argonne) (NN team))))) (, ,)) (VP (VBD said) (S (NP (PRP he)) (VP (AUX was) (VP (VBG watching) (NP (DT the) (NN game)) (PP (IN from) (NP (DT the) (NN bench))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN trouble)) (VP (VBD started)))))))) (. .))

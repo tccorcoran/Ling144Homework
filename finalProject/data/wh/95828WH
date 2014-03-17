@@ -1,0 +1,1 @@
+(S (VP (VB Tell) (NP (PRP me)) (PP (IN about) (NP (PRP them)))) (PRN (: --) (RB not) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VBP are)))) (: ;)) (S (NP (PRP we)) (VP (MD must) (VP (VP (VB honor) (NP (NN confidentiality))) (: --) (CC but) (SBAR (WHADJP (WRB how) (JJ old)) (S (NP (PRP they)) (VP (VBP are))))))) (. .))

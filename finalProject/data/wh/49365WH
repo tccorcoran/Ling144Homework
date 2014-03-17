@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Joe)) (, ,) (SBAR (WHNP (WP who)) (VP (VBD was) (NP (CD 6)) (SBAR (WHADVP (WRB when)) (VP (VBN separated) (PP (IN from) (NP (PRP$ his) (NN family))))))) (, ,)) (VP (AUX was) (VP (VBN adopted) (NP (CD three) (JJ different) (NNS times)) (PP (IN by) (NP (NP (NNS families) (CC but) (NNS things)) (S (ADVP (RB never)) (VP (VBN worked) (PRT (RP out)))))))) (. .))

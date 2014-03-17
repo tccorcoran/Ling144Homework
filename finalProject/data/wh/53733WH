@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NP (NN Somebody)) (SBAR (WHNP (WP who)) (VP (VBZ 's) (ADJP (JJ strange)) (PP (IN about) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ different) (NNS things))))) (ADVP (RB but))))) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ nice)) (PP (TO to) (NP (NNS people)))) (. .) ('' ''))

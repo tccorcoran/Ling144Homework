@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (NNS People)) (VP (VBP think) (S (NP (PRP they)) (VP (VBP have) (NP (NP (NNS tons)) (PP (IN of) (NP (NNS data)))))))) (CC and) (S (ADVP (RB so)) (NP (PRP they)) (VP (MD must) (VP (VB be) (ADJP (JJ able) (VP (TO to) (VP (VB analyze) (NP (PRP it)) (VP (TO to) (VP (VB see) (SBAR (WHNP (WP what)) (VP (VBZ works))))))))))) (. .))

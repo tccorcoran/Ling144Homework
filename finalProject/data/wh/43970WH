@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NP (DT The) (NN question)) (ADVP (RB here))) (VP (VBZ is) (PP (IN about) (SBAR (WHADVP (WRB how)) (VP (TO to) (VP (VB divide) (NP (NP (DT the) (QP (IN between) ($ $) (CD 1) (CD billion) (CC and) ($ $) (CD 1.5) (CD billion))) (SBAR (WHNP (IN that)) (S (NP (DT this) (NN game)) (VP (VBZ generates))))))))) (ADVP (RB yearly))) (. .))

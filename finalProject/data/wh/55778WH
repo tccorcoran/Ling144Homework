@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP WPP) (POS 's)) (JJ American) (NN depositary) (NNS receipts)) (, ,) (SBAR (WHNP (WDT which)) (VP (VP (VBP trade) (PP (IN on) (NP (NNP Nasdaq)))) (CC and) (VP (VBP represent) (NP (NP (CD two) (NNS shares)) (NP (DT each)))))) (, ,)) (VP (VBD closed) (NP (NNP Monday)) (PP (IN at) (NP ($ $) (CD 3.50))) (, ,) (ADVP (RB up) (NP (CD 25) (NNS cents)))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT The) (NN company) (POS 's)) (NNS earnings)) (VP (VBD sputtered) (PP (IN after) (NP (DT the) (NN deal))))) (, ,) (CC and) (S (NP (NP (PRP$ its) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB originally)) (VP (VBD sold) (PP (IN for) (NP ($ $) (CD 11)))))) (, ,)) (VP (VBD sank) (PP (TO to) (NP ($ $) (CD 5))))) (. .))

@@ -1,0 +1,1 @@
+(S (`` ``) (SBAR (IN If) (S (NP (PRP you)) (VP (AUX 're) (VP (VBG marketing) (NP (JJ soft) (NNS drinks)))))) (, ,) (PP (IN for) (NP (NN example))) (, ,) (SBARQ (WHNP (WRB how) (JJ much)) (SQ (AUX do) (NP (PRP they)) (VP (VB consume))) (, ,) (WHADVP (WRB where)) (, ,) (WHADVP (WRB when)) (SBARQ (CC and) (WHNP (WP what)) (. ?)) ('' '')))

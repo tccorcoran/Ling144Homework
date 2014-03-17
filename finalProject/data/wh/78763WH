@@ -1,0 +1,1 @@
+(S (SBAR (RB Even) (IN if) (S (NP (DT the) (NNP Superfund) (NN proposal)) (VP (VBZ passes)))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (`` ``) (NP (NP (DT the) (NN uncertainty)) (SBAR (WHNP (WDT that)) (VP (VBZ remains)))) (VP (VBZ exceeds) (SBAR (IN that) (S (NP (WDT which)) (VP (AUX has) (VP (AUX been) (VP (VBN cleared) (PRT (RP up)))))))) (. .) ('' ''))

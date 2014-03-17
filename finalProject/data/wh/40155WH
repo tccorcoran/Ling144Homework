@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NP (DT A) (NN lot)) (PP (IN of) (NP (NNS people)))) (VP (VBD believed) (S (NP (NP (DT these) (PRN (-LRB- -LRB-) (NP (NNS workers)) (-RRB- -RRB-))) (SBAR (WHNP (WP who)) (VP (VBD were) (NP (NN telecommuting))))) (VP (MD would) (VP (VB stop) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNS freeways)) (VP (VBD were) (ADJP (JJ open))))))))) (. .))

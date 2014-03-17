@@ -1,0 +1,1 @@
+(S (ADVP (RB Now)) (PP (IN about) (NP (NP (DT that) (NN warm-up) (NN jacket)) (SBAR (WHNP (IN that)) (S (NP (NNP Showalter)) (ADVP (RB always)) (VP (VBZ wears)))))) (, ,) (NP (DT no) (NN matter) (SBAR (SBAR (WHADJP (WRB how) (JJ hot)) (NP (DT the) (NN weather))) (CC or) (SBAR (IN whether) (S (NP (DT the) (NN game)) (VP (AUX is) (VP (VBN played))))))) (VP (VBZ indoors)) (: ...))

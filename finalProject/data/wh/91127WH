@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (VB Let) (POS 's)) (VP (VBP see) (SBAR (WHADVP (WRB how)) (S (NP (NNS people)) (VP (VB behave)))))) (, ,) ('' '') (NP (NP (DT the) (NN officer)) (, ,) (SBAR (WHNP (WP who)) (VP (AUX did) (RB not) (VP (VB give) (NP (PRP$ his) (NN name))))) (, ,)) (VP (VBD said) (PP (IN of) (NP (NP (DT the) (NNS people)) (VP (VBG seeking) (VP (TO to) (VP (VB leave))))))) (. .))

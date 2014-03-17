@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP IBM)) (CC and) (NP (NNP Microsoft))) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD collaborated) (PP (IN on) (NP (NP (DT the) (JJ first) (NN version)) (PP (IN of) (NP (NN OS/2))))))) (, ,)) (ADVP (RB now)) (VP (VBP are) (PP (IN at) (NP (NNS odds)))) (. .))

@@ -1,0 +1,1 @@
+(S (NP (NNS Senators)) (VP (VP (VBD realized) (NP (DT this)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD voted) (PP (IN on) (NP (DT the) (NN bill))) (NP (JJ last) (NN year)))))) (, ,) (CC but) (VP (VBD decided) (VP (TO to) (VP (VB pass) (NP (PRP it)) (ADVP (RB anyway))))) (, ,) (PP (IN by) (NP (NP (DT a) (NN margin)) (PP (IN of) (QP (CD 95) (TO to) (CD 4)))))) (. .))

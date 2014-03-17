@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Barry) (NNP Klarberg)) (, ,) (NP (NP (NNP Messier) (POS 's)) (NN accountant)) (, ,)) (VP (VBD said) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ optimistic) (PP (IN about) (NP (NP (DT the) (NN proposal)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD refused) (VP (TO to) (VP (VB discuss) (PP (IN in) (NP (NN detail)))))))))))))) (. .))

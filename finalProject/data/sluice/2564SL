@@ -1,0 +1,1 @@
+(S (S (NP (DT The) (NN lawsuit)) (VP (AUX has) (VP (VBN cost) (NP (NNP USC)) (NP (NP (NNS hundreds)) (PP (IN of) (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS dollars))))))))) (: ;) (S (NP (DT the) (NN university)) (VP (VBZ refuses) (VP (TO to) (VP (VB say) (WHADVP (WRB how) (JJ much)))))) (. .))

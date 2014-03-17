@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NP (NNP Beauregard) (POS 's)) (NN ex-girlfriend)) (, ,) (NP (NNP Smith)) (, ,) (NP (CD 21)) (, ,)) (CC and) (NP (NP (NNP Thompson)) (, ,) (NP (CD 26)) (, ,))) (VP (AUX were) (VP (VBG sitting) (PP (IN in) (NP (NP (NNP Thompson) (POS 's)) (NN truck))) (SBAR (WHADVP (WRB when)) (S (NP (NNP Beauregard)) (VP (VBD drove) (PRT (RP up))))))) (. .))

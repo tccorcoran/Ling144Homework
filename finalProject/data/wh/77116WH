@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (ADVP (RB not))) (, ,) (ADVP (RB then)) (S (NP (DT the) (NN season)) (VP (AUX is) (VP (VBN lost)))) (CC and) (S (NP (DT the) (CD two) (NNS sides)) (VP (MD will) (VP (VB fall) (PP (IN into) (NP (DT a) (NN twilight) (NN zone))) (SBAR (WHADVP (WRB where)) (S (NP (NN time)) (ADVP (RB really)) (VP (AUX does) (VP (VB stand) (ADVP (RB still))))))))) (. .))

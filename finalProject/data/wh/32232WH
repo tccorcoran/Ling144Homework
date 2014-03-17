@@ -1,0 +1,1 @@
+(S (NP (NNP Borg)) (VP (VBD made) (NP (NNS trips)) (PP (TO to) (NP (NP (NNP Carnegie) (NNP Mellon) (NNP University)) (PP (IN in) (NP (NNP Pittsburgh))))) (, ,) (SBAR (WHADVP (WRB where)) (S (NP (NNS researchers)) (VP (VBD worked) (PP (IN on) (NP (NNS robots))) (PP (IN for) (NP (NP (NN use)) (PP (IN in) (NP (JJ outer) (NN space))))))))) (. .))

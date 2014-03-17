@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP We)) (ADVP (RB no) (RB longer)) (VP (VBP have) (S (NP (NNS employees)) (VP (VBG working) (PP (IN for) (NP (DT a) (NN company))))))) (: ;) (S (NP (PRP we)) (VP (VBP have) (NP (NP (NNS employees)) (SBAR (WHNP (WP who)) (VP (VBP are) (NP (DT the) (NN company))))))) (. .) ('' ''))

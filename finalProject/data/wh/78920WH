@@ -1,0 +1,1 @@
+(S (SBAR (SBAR (WHNP (WDT Whatever)) (S (NP (PRP he)) (VP (VBZ wants) (VP (TO to) (VP (VB do)))))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (PRP he)) (VP (VBZ wants) (VP (TO to) (VP (VB do) (NP (PRP it)))))))) (VP (VBZ is) (ADJP (JJ fine) (PP (IN with) (NP (PRP me))))) (. .))

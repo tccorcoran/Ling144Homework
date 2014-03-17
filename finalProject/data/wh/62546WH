@@ -1,0 +1,1 @@
+(S (NP (PRP I)) (VP (VBD developed) (NP (NP (JJ mathematical) (NNS models)) (SBAR (WHNP (WDT that)) (VP (VBP predict) (NP (NN behavior)) (PP (IN in) (NP (JJ certain) (NNS circumstances)))))) (: --) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN system)) (VP (MD can) (VP (VB process) (NP (NN information))))))) (. .))

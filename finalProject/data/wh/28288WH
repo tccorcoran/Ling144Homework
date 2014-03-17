@@ -1,0 +1,1 @@
+(S (NP (DT The) (NN thing)) (VP (VBZ is) (, ,) (S (NP (NP (DT the) (NN guy)) (SBAR (WHNP (WP who)) (VP (VBZ recommends) (NP (DT this) (NN book)) (PP (IN as) (NP (NP (DT a) (NN window)) (PP (IN on) (NP (NNP America)))))))) (VP (VBZ is) (ADVP (RB actually)) (ADJP (RB quite) (JJ fond) (PP (IN of) (NP (NNPS Americans))))))) (. .))

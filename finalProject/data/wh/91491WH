@@ -1,0 +1,1 @@
+(S (S (PP (IN In) (NP (CD 1992) (CC and) (CD 1993))) (, ,) (NP (DT the) (NNP Senate)) (VP (VBD passed) (NP (DT the) (NN bill)))) (, ,) (CC but) (S (NP (DT both) (NNS times)) (NP (PRP it)) (VP (VBD died) (PP (IN in) (NP (NP (DT the) (NN Assembly)) (, ,) (SBAR (WHNP (WDT which)) (VP (AUX is) (VP (VBN controlled) (PP (IN by) (NP (NNPS Democrats)))))))))) (. .))

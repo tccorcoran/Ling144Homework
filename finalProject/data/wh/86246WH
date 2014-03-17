@@ -1,0 +1,1 @@
+(S (S (NP (NP (NN Something)) (SBAR (WHNP (WDT that)) (VP (VBZ makes) (NP (PRP you))))) (VP (VBP want) (S (NP (PRP them)) (VP (TO to) (VP (VB be) (ADVP (RB together))))))) (: --) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (AUX does) (RB n't) (VP (VB work))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB feel) (NP (PRP it))))) (. .) ('' ''))

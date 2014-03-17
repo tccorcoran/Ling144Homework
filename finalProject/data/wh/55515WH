@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP Mitchell) (POS 's)) (NN bill)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (NNP Clinton)) (VP (AUX has) (VP (VBN endorsed))))) (, ,)) (VP (VBZ calls) (PP (IN for) (NP (NP (CD 95) (NN percent)) (PP (RB rather) (IN than) (NP (NP (CD 100) (NN percent) (NN coverage)) (PP (IN by) (NP (CD 2000)))))))) (. .))

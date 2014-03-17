@@ -1,0 +1,1 @@
+(FRAG (NP (DT A)) (: :) (S (NP (PRP It)) (VP (VBZ is))) (, ,) (CC but) (FRAG (WHADVP (WRB why)) (VP (VB pay) (S (NP (PRP them)) (VP (TO to) (VP (VB do) (NP (PRP it))))))) (. ?))

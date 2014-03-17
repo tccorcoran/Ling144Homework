@@ -1,0 +1,1 @@
+(S (S (NP (NP (NNP Jones) (POS ')) (NN mother)) (VP (VBD died) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD was) (NP (CD 12))))))) (, ,) (CC and) (S (NP (PRP$ his) (NN father)) (VP (VBD raised) (NP (PRP him)) (PP (IN in) (NP (NNP Miami))))) (. .))

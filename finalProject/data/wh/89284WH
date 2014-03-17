@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP I)) (VP (VBP tell) (NP (PRP her)) (PP (IN about) (NP (NP (PRP$ my) (NNS friends)) (PP (IN on) (NP (DT the) (NN road))))))) (CC and) (S (NP (PRP she)) (VP (VBZ tells) (NP (PRP me)) (PP (IN about) (SBAR (WHNP (WP what)) (VP (AUX 's) (VP (VBG going) (PRT (RP on)) (ADVP (RB back) (RB here)))))))) (. .))

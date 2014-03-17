@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP They)) (VP (VBP have) (NP (NN roof) (NN water)))) (PRN (: --) (S (NP (PRP they)) (VP (VBP collect) (NP (PRP it)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (NNS rains)))))) (: --)) (CC but) (S (NP (PRP they)) (VP (MD ca) (RB n't) (VP (VB drink) (NP (PRP it))))) (. .))

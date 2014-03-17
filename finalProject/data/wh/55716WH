@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNP Sybase) (POS 's)) (NN stock)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD peaked) (PP (IN at) (NP (CD 56.37))) (PP (IN on) (NP (NNP June) (CD 6))))) (, ,)) (VP (AUX has) (ADVP (IN since)) (VP (VBN lost) (NP (NP (CD 30) (NN percent)) (PP (IN of) (NP (PRP$ its) (NN value)))))) (. .))

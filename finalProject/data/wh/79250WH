@@ -1,0 +1,1 @@
+(S (SBAR (WHADVP (WRB When)) (S (NP (NNP Shure)) (VP (VBD arrived) (PP (IN at) (NP (DT the) (NN office))) (PP (IN on) (NP (NNP Wednesday)))))) (, ,) (NP (NP (DT a) (NN notice)) (VP (VBG announcing) (NP (DT some) (NNS layoffs)))) (VP (AUX was) (VP (VBG awaiting) (NP (NP (PRP$ his) (NN approval)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP he)) (VP (VBD withheld))))))) (. .))

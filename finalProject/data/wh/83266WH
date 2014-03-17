@@ -1,0 +1,1 @@
+(S (S (NP (NN Bond) (NNS yields)) (VP (VBP rise))) (CC and) (S (NP (NNS prices)) (VP (VB fall) (SBAR (WHADVP (WRB when)) (S (NP (NNS traders)) (VP (VBP perceive) (NP (JJ existing) (NNS bonds)) (PP (IN as) (ADJP (ADJP (JJR riskier)) (PP (IN than) (NP (JJ future) (NNS bonds)))))))))) (. .))

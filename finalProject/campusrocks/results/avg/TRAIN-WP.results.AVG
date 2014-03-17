@@ -1,0 +1,11 @@
+TRAIN-WP
+
+                        -1      1
+                -1  8900.50 196.70
+                 1  119.70  254.80
+
+                (row = reference; col = test)
+
+avg precision: 0.564689
+avg recall: 0.680364
+avg f1: 0.616981

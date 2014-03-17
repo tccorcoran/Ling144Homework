@@ -1,0 +1,1 @@
+(S (NP (NP (DT A)) (: :) (NP (NP (DT An) (NN example)) (VP (VBN provided) (PP (IN by) (NP (NNP ABC) (NNP News)))))) (ADVP (RB recently)) (VP (VBD was) (NP (NP (NP (NNP Rep.) (NNP Rod) (NNP Grams)) (PRN (-LRB- -LRB-) (NP (NNP R-Minn.)) (-RRB- -RRB-))) (, ,) (SBAR (WHNP (WP who)) (VP (VBD was) (ADVP (RB once)) (NP (DT a) (JJ self-employed) (NN contractor)))))) (. .))

@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (DT a) (NN teacher)) (VP (VBZ is) (ADVP (NP (QP (CD 15) (CC or) (CD 50) (CC or) (CD 300)) (NNS miles)) (RB away))))) (, ,) (NP (NP (DT a) (NN student)) (SBAR (WHNP (WP who)) (VP (VBZ needs) (NP (NP (NN help)) (PP (IN after) (NP (NN school))))))) (VP (VBZ has) (NP (DT a) (NN problem))) (. .))

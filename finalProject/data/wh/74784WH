@@ -1,0 +1,1 @@
+(S (PP (VBG Depending) (PP (IN on) (SBAR (WHNP (WDT which) (NN word-processing) (NN program)) (S (NP (PRP you)) (VP (VBP use)))))) (, ,) (NP (DT this)) (VP (AUX is) (VP (VBN called) (NP (DT an) (NML (NML (NN ASCII) (NN file)) (, ,) (NML (NNS DOS)) (NML (NN text)) (CC or) (NML (NN text) (NN file)))))) (. .))

@@ -1,0 +1,1 @@
+(S (S (NP (NNS People)) (VP (MD may) (VP (VB know) (S (NP (DT that) (NN exercise)) (VP (VBZ is) (ADJP (JJ good) (PP (IN for) (NP (PRP them))))))))) (: --) (CC but) (S (NP (PRP they)) (VP (MD may) (RB not) (VP (VB know) (WHADVP (WRB how) (JJ good))))) (. .))

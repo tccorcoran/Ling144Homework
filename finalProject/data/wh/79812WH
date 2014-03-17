@@ -1,0 +1,1 @@
+(S (SBAR (WHNP (WP What)) (S (NP (PRP I)) (VP (AUX do) (PP (PP (IN from) (ADVP (RB here))) (PP (IN on) (NP (RB out))))))) (VP (VBZ depends) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (PRP he)) (VP (VBZ conforms) (PP (TO to) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (VBP do)))))))))) (. .))

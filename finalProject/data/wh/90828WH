@@ -1,0 +1,1 @@
+(S (S (NP (PRP You)) (VP (AUX do) (RB n't) (VP (VB want) (VP (TO to) (VP (VP (VB get) (ADJP (VBN bored))) (CC or) (VP (VB spend) (NP (ADJP (RB too) (JJ much)) (NN money)))))))) (: --) (SBARQ (WHADVP (WRB why)) (VP (VB take) (NP (DT a) (NN month) (QP (CC or) (CD two))) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (AUX do) (RB n't) (VP (VB have) (VP (TO to))))))) (. ?)))

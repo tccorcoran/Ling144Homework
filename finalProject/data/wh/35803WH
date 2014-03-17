@@ -1,0 +1,1 @@
+(S (NP (NNP Nissan)) (VP (MD will) (VP (VB return) (NP (NP (NP (DT a) (NN name)) (PP (IN from) (NP (DT the) (NN past)))) (: --) (NP (NP (DT the) (NN 200SX)) (, ,) (VP (VBN discontinued) (PP (IN in) (NP (CD 1988)))))) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP 240SX)) (VP (AUX was) (VP (VBN introduced))))))) (. .))

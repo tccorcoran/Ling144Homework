@@ -1,0 +1,1 @@
+(S (S (`` ``) (NP (NNP Rule) (CD One))) (: :) (VP (VP (VB Be) (ADJP (JJ cautious))) (, ,) (VP (VB be) (ADJP (JJ careful)))) (, ,) (CC and) (S (SBAR (WHADVP (WRB when)) (PP (IN in) (NP (NN doubt)))) (, ,) (VP (VB keep) (S (NP (PRP$ your) (NN mouth)) (VP (VBN shut))))) (. .))

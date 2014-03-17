@@ -1,0 +1,1 @@
+(S (SBAR (IN Because) (S (NP (NP (NN none)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (AUX are) (VP (VBG saying))))))) (VP (VBZ is) (NP (NN news))))) (: --) (NP (PRP they)) (VP (VP (VB go) (ADVP (RB out))) (CC and) (VP (VB repeat) (NP (DT the) (JJ same) (NN message)))) (. .) ('' ''))

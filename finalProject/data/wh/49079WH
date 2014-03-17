@@ -1,0 +1,1 @@
+(S (NP (NP (NNP IBM)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD developed) (NP (NP (DT the) (NN PowerPC)) (PP (IN with) (NP (NP (NNP Apple)) (CC and) (NP (NNP Motorola))))))) (, ,)) (VP (AUX has) (RB n't) (VP (VBN helped) (NP (DT the) (NN situation)))) (. .))

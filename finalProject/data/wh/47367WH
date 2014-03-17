@@ -1,0 +1,1 @@
+(S (NP (NP (NNP Clifford) (NNP Neuman)) (, ,) (SBAR (WHNP (WP who)) (VP (VBZ heads) (NP (DT the) (NN project)))) (, ,)) (VP (VBZ expects) (S (NP (DT both) (NNS models)) (VP (TO to) (VP (AUX be) (VP (VBN used))))) (, ,) (PP (VBG depending) (PP (IN on) (SBAR (SBAR (IN whether) (S (NP (DT the) (NN user)) (VP (VBZ wants) (NP (NN anonymity))))) (CC or) (RB not))))) (. .))

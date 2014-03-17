@@ -1,0 +1,11 @@
+TRAIN-WRB
+
+                        -1      1
+                -1  8881.70 215.50
+                 1  314.30   60.20
+
+                (row = reference; col = test)
+
+avg precision: 0.217911
+avg recall: 0.160764
+avg f1: 0.184909

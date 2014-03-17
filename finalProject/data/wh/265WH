@@ -1,0 +1,1 @@
+(FRAG (NP (NNP Q)) (: :) (FRAG (WHNP (WP What)) (VP (VBZ is) (NP (NP (PRP$ your) (NN response)) (PP (TO to) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (VP (AUX are) (VP (VBG saying) (S (NP (PRP you)) (VP (VBP 're) (ADJP (RB too) (JJ old)))))))))) (PP (IN for) (NP (DT this) (NN music))))) (. ?))

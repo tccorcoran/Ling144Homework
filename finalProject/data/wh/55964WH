@@ -1,0 +1,1 @@
+(S (NP (NP (NP (NNS Shares)) (PP (IN of) (NP (NNP First) (NNP Data)))) (, ,) (SBAR (WHNP (WDT which)) (S (ADVP (RB also)) (VP (VBZ trades) (PP (IN on) (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))))) (, ,)) (VP (VBD closed) (PP (IN at) (NP ($ $) (CD 47.50))) (, ,) (ADVP (RB down) (NP (CD 37.5) (NNS cents)))) (. .))

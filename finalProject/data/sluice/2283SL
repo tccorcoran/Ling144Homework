@@ -1,0 +1,1 @@
+(S (`` ``) (SBAR (IN If) (S (NP (NNP Vice) (NNP President) (NNP Gore)) (VP (VBZ wants) (VP (TO to) (VP (VB say)))))) (PRN (, ,) ('' ') (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ different) (PP (IN from) (NP (NNP President) (NNP Clinton) (POS ')))))) (, ,)) (VP (VB let) (S (NP (PRP him)) (VP (VB explain) (WHADVP (WRB how))))) (. .))

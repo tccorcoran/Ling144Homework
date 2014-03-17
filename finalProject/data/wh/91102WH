@@ -1,0 +1,1 @@
+(S (S (NP (RB Here)) (VP (VBZ 's) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN policy)) (VP (VBZ works)))))) (: :) (S (NP (DT The) (NN employer)) (VP (VP (VBZ buys) (NP (NP (DT an) (NN insurance) (NN policy)) (VP (VBG covering) (NP (DT an) (NN executive))))) (CC and) (VP (VBZ pays) (NP (DT the) (JJ annual) (NNS premiums))))) (. .))

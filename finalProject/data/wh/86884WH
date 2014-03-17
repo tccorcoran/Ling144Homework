@@ -1,0 +1,1 @@
+(S (`` ``) (S (NP (PRP He)) (VP (VBD said) (S (NP (PRP he)) (VP (AUX did) (RB n't) (VP (VB know) (NP (PRP them))))))) (, ,) (CC but) (S (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD heard) (NP (DT the) (NN noise))))) (NP (PRP he)) (VP (VBD said) (S (NP (PRP he)) (VP (VBD had) (VP (TO to) (VP (VB get) (ADVP (RB out)))))))) (. .) ('' ''))

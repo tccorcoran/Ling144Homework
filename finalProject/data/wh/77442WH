@@ -1,0 +1,1 @@
+(S (SBAR (IN If) (S (NP (NN share) (NNS prices)) (VP (VBP fall)))) (, ,) (NP (DT these) (NNS short-sellers)) (VP (MD would) (VP (VB make) (NP (NN money)) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (ADVP (RB actually)) (VP (VBP pay) (PP (IN for) (NP (DT the) (VBN borrowed) (NNS shares))) (PP (IN at) (NP (JJR lower) (NNS prices)))))))) (. .))

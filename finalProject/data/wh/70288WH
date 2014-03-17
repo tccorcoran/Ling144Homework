@@ -1,0 +1,1 @@
+(S (PP (IN In) (NP (DT the) (JJ above) (NN example))) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NN price)) (VP (VBZ rises)))) (NP (PRP it)) (VP (MD would) (ADVP (RB likely)) (VP (VB be) (PP (TO to) (NP ($ $) (CD 50.50))) (PP (IN from) (NP ($ $) (CD 50.25))))))

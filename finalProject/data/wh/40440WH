@@ -1,0 +1,1 @@
+(S (NP (NP (DT A) (NN teacher)) (PP (IN at) (NP (NP (DT the) (NN school)) (SBAR (WHNP (WP who)) (VP (VBZ is) (PP (IN in) (NP (NP (NN touch)) (PP (IN with) (NP (NP (DT the) (NN fourth-grader) (POS 's)) (NN family)))))))))) (VP (VBD said) (S (NP (PRP they)) (VP (AUX do) (RB not) (VP (VB want) (VP (TO to) (VP (VB talk) (PP (IN about) (NP (DT the) (NN controversy))))))))) (. .))

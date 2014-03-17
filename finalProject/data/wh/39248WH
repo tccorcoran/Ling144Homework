@@ -1,0 +1,1 @@
+(S (NP (NP (CD One) (NN gene)) (SBAR (WHNP (WDT that)) (VP (AUX is) (VP (VBN associated) (PP (IN with) (NP (JJ non-Hodgkins) (NN lymphoma))))))) (VP (VBZ is) (NP (NP (NNP BCL2)) (, ,) (NP (NP (DT a) (NN gene)) (SBAR (WHNP (WDT that)) (S (SBAR (WHADVP (WRB when)) (VP (VBN mutated))) (, ,) (VP (VBZ makes) (S (NP (NNS cells)) (ADJP (JJ immortal))))))))) (. .))

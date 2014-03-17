@@ -1,0 +1,1 @@
+(S (`` ``) (NP (NNS People)) (VP (VBP tend) (VP (TO to) (VP (VP (VB underreport) (SBAR (WHNP (WP what)) (VP (VBZ 's) (ADJP (JJ bad)))) (PP (IN for) (NP (PRP them)))) (CC and) (VP (VB overreport) (SBAR (WHNP (WP what)) (VP (VBZ 's) (ADJP (JJ good)) (SBAR (IN that) (S (NP (PRP they)) (VP (AUX are) (VP (VBG doing))))))))))) (. .) ('' ''))

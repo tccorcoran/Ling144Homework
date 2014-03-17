@@ -1,0 +1,1 @@
+(S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD failed)))) (, ,) (NP (PRP it)) (ADVP (RB usually)) (VP (VBD bounced) (PRT (RP back)) (PP (IN with) (NP (NP (DT a) (NN success)) (SBAR (WHNP (WDT that)) (VP (VBD made) (S (NP (DT the) (NN public)) (VP (VB forgive) (CC and) (VP (VB forget) (NP (DT the) (NN failure)))))))))) (. .))

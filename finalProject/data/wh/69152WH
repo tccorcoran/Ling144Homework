@@ -1,0 +1,1 @@
+(S (PP (IN For) (NP (NN example))) (, ,) (SBAR (IN if) (S (NP (NP (NNP Federated) (POS 's)) (NN stock) (NN price)) (VP (VBZ falls) (ADVP (RB sharply))))) (, ,) (SBARQ (WHPP (IN at) (WHNP (WP what) (NN point))) (SQ (MD would) (NP (DT a) (NN deal)) (VP (VB fall) (ADVP (RB through)))) (. ?)))

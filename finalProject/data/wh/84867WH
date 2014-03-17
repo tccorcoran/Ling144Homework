@@ -1,0 +1,1 @@
+(S (S (NP (NP (DT Any) (NN player)) (SBAR (WHNP (WP who)) (VP (VBD spent) (NP (CD 1993)) (PP (IN in) (NP (DT the) (NNS majors)))))) (VP (MD will) (VP (VB receive) (NP ($ $) (CD 25,000)) (PP (IN by) (NP (NN mid-October)))))) (: ;) (S (NP (NNS others)) (VP (MD will) (VP (AUX be) (VP (VBN paid) (PP (IN on) (NP (DT a) (JJ pro-rated) (NN basis))))))) (. .))

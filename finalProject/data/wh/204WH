@@ -1,0 +1,1 @@
+(FRAG (NP (DT A)) (: :) (S (PP (IN For) (NP (NP (DT a) (NN freshman) (NN cadet)) (PP (IN in) (NP (DT the) (JJ 1993-94) (NN school) (NN year))))) (, ,) (NP (DT the) (NN bill)) (VP (VBD was) (NP (NP ($ $) (CD 9,879)) (, ,) (SBAR (WHNP (WDT which)) (VP (VBD included) (NP (NN tuition) (, ,) (NNS fees) (, ,) (NN room) (CC and) (NN board))))))) (. .))
